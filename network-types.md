@@ -1,0 +1,13 @@
+- [Domain](domain.md)
+- [Local Area Network (LAN)](lan.md)
+- [Wide area network (WAN)](wan.md)
+- [Virtual Private Network (VPN)](vpn.md)
+- [Intranet](intranet.md)
+- [Internet](internet.md)
+- [Multi-Homed](multi-homing.md)
+- [Leased Circuit](leased-circuit.md)
+- [Switched Network](switched-network.md)
+- [Physically Isolated Network](physically-isolated-network)
+- [T1, T3](t1-and-t3.md)
+## My Notes
+[Notes](mynotes/network-types-notes.md)
