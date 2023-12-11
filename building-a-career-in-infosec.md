@@ -3,10 +3,10 @@
 - [Roles](roles.md)
 - [Home Lab](home-lab.md)
 - [Projects](projects.md)
-- [CTFs](CTFs.md)
+- [CTFs](ctfs.md)
 - [Bug Bounties](bug-bounties.md)
 - [Social Networking](social-networking.md)
 - [Producing Content](producing-content.md)
-- [Business](Business.md)
+- [Business](business.md)
 ## My Notes
 [Notes](mynotes/building-a-career-in-infosec-notes.md)
