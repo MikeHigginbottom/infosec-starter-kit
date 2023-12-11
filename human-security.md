@@ -4,4 +4,4 @@
 - [Poor Passwords](passwords.md)
 - [Phishing](phishing.md)
 ## My Notes
-[Notes](human-security-notes.md)
+[Notes](mynotes/human-security-notes.md)

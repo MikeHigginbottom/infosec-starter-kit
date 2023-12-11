@@ -2,4 +2,4 @@
 - [Red Team](red-team.md)
 - [Blue Team](blue-team.md)
 ## My Notes
-[Notes](attack-and-defence-techniques-notes.md)
+[Notes](mynotes/attack-and-defence-techniques-notes.md)

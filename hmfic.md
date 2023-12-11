@@ -4,4 +4,4 @@
 
 - [References](references.md)
 ## My Notes
-[Notes](info-sec-notes.md)
+[Notes](mynotes/infosec-notes.md)

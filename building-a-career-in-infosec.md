@@ -9,4 +9,4 @@
 - [Producing Content](producing-content.md)
 - [Business](Business.md)
 ## My Notes
-[Notes](building-a-career-in-infosec-notes.md)
+[Notes](mynotes/building-a-career-in-infosec-notes.md)
