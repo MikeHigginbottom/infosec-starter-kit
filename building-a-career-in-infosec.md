@@ -1,0 +1,12 @@
+- [Prerequisites](prerequisites.md)
+- [Attitude And Ethics](attitude-and-ethics.md)
+- [Roles](roles.md)
+- [Home Lab](home-lab.md)
+- [Projects](projects.md)
+- [CTFs](CTFs.md)
+- [Bug Bounties](bug-bounties.md)
+- [Social Networking](social-networking.md)
+- [Producing Content](producing-content.md)
+- [Business](Business.md)
+## My Notes
+[Notes](building-a-career-in-infosec-notes.md)
