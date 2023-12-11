@@ -1,0 +1,6 @@
+- #ref/2023/12/09/095245/source [Glossary of cyber security terminology | UK Cyber Security Council](https://www.ukcybersecuritycouncil.org.uk/glossary/)
+- #ref/2023/12/09/101428/source [Glossary of Security Terms | SANS Institute](https://www.sans.org/security-resources/glossary-of-terms/)
+- #ref/2023/12/09/120659/source [Cyber security glossary - NHS Digital](https://digital.nhs.uk/cyber-and-data-security/about-us/cyber-security-glossary)
+- #ref/2023/12/09/124901/source [Cyber Security Terminology | A-Z Dummies Guide - MetaCompliance](https://www.metacompliance.com/cyber-security-terminology)
+- #ref/2023/12/09/125539/source [Glossary of IT security terms - Protecting networks, computers and data | BSI](https://www.bsigroup.com/en-GB/Cyber-Security/Glossary-of-cyber-security-terms/)
+- #ref/2023/12/09/130055/source [Cybersecurity Glossary of Terms | Global Knowledge](https://www.globalknowledge.com/ca-en/topics/cybersecurity/glossary-of-terms/)
