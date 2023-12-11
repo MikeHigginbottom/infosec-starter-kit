@@ -8,7 +8,7 @@ Suggested use case? You're just getting your feet wet in the infosec ocean and y
 - The notes are 'atomic' in the sense that each file represents a single concept (or acts as a simple grouping of links to sub-topics) - it talks about one thing and one thing only.
 - They're written in Markdown because it's simple, efficient, flexible and future-proof
 - The notes link to each other where it makes sense. For example the note about physical security has a link in it to the note about lock picking but it doesn't have a link to the note about IP addresses.
-- They're organised as a tree with a root node at [hmfic](hmfic.md) getting more detailed and specialised the further way from that note you get. But some of the branches connect to each other so in terms of graph theory it's not acyclic - the tree has loops in it. My tree, my rules.
+- They're organised as a tree with a root node at [HMFIC](hmfic.md) getting more detailed and specialised the further way from that note you get. But some of the branches connect to each other so in terms of graph theory it's not acyclic - the tree has loops in it. My tree, my rules.
 - They're aimed at someone getting started. If you've already got your own notes you might want to cut and paste bits and pieces but your structure isn't going to mesh very well with my structure.
 
 Are they complete? Ha! You're funny. Well, I *think* they're kind of complete in the sense that you probably won't find any major topics missing but the further down (up?) the tree you go, the more things you'll find you want to add.
