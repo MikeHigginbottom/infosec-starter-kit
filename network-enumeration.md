@@ -6,6 +6,7 @@
 	- details of listening network services on any open ports found
 	- share names
 	- directory names
-	- users and passwords
+	- [User Enumeration](user-enumeration.md)
+	- passwords
 ## My Notes
 [Notes](mynotes/network-enumeration-notes.md)
