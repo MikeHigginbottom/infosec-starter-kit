@@ -1,4 +1,3 @@
-- #ref/2023/11/04/131520/source [Build Your Own Cyber Lab at Home | Udemy](https://www.udemy.com/course/build-your-own-cyber-lab-at-home/)
 - #ref/2023/12/06/154236/source [Difference Between Security Incident and Breach](https://www.cobalt.io/blog/difference-between-security-incident-and-breach)
 - #ref/2023/12/06/154917/source [intrusion - Glossary | CSRC](https://csrc.nist.gov/glossary/term/intrusion)
 - #ref/2023/12/06/155113/source [event - Glossary | CSRC](https://csrc.nist.gov/glossary/term/event)
