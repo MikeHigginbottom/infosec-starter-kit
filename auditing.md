@@ -1,3 +1,8 @@
-Auditing is closely related to compliance and risk management.  This position requires knowledge of information security as well as the related industry.  The main purpose of the team is to schedule and facility risk-based security audits.  An audit is a review of an organization’s operations, such as security monitoring, policies and standards, system security, threat and vulnerability management.  Knowledge of regulatory standards is necessary (PCI-DSS, Sarbanes Oxley, etc). #glossary 
+- The process of scheduling and facilitating risk-based security audits together with  information gathering and analysis of assets to ensure such things as policy compliance and security from vulnerabilities. #ref/2023/12/09/101428 #glossary 
+
+- Auditing is closely related to [compliance](compliance.md) and [risk management](risk-management.md). 
+- [Audit](audit.md)
+- [Audit Log](audit-log.md)
+- [Audit Trail](audit-trail.md)
 ## My Notes
 [Notes](mynotes/auditing-notes.md)
