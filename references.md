@@ -20,3 +20,4 @@
 - #ref/2023/12/16/143717/source [What is SecOps? - Security Operations Definition](https://www.cyberark.com/what-is/security-operations/)
 - #ref/2023/12/16/145556/source [What is Secure Coding? - Check Point Software](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-secure-coding/)
 - #ref/2023/12/16/172316/source [IOA vs IOC: Understanding the Differences - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/)
+- #ref/2023/12/16/182338/source [Lock picking - Wikipedia](https://en.wikipedia.org/wiki/Lock_picking)
