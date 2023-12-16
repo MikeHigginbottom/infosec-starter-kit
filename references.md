@@ -12,3 +12,5 @@
 - #ref/2023/12/09/124901/source [Cyber Security Terminology | A-Z Dummies Guide - MetaCompliance](https://www.metacompliance.com/cyber-security-terminology)
 - #ref/2023/12/09/125539/source [Glossary of IT security terms - Protecting networks, computers and data | BSI](https://www.bsigroup.com/en-GB/Cyber-Security/Glossary-of-cyber-security-terms/)
 - #ref/2023/12/09/130055/source [Cybersecurity Glossary of Terms | Global Knowledge](https://www.globalknowledge.com/ca-en/topics/cybersecurity/glossary-of-terms/)
+- #ref/2023/12/15/231610/source [What is Incident Response | Become a Incident Handler | EC-Council](https://www.eccouncil.org/cybersecurity/what-is-incident-response/)
+- #ref/2023/12/16/081505/source [Incident Management vs. Incident Response - What's the Difference? | Rootly](https://rootly.com/blog/incident-management-vs-incident-response-what-s-the-difference)
