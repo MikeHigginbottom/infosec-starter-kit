@@ -1,3 +1,4 @@
+- [Host](host.md)
 - [Client](client.md)
 - [Server](server.md)
 ## My Notes
