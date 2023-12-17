@@ -1,4 +1,5 @@
 - [Attack Techniques](attack-techniques.md)
+- [Defence Techniques](defence-techniques.md)
 - [Red Team](red-team.md)
 - [Blue Team](blue-team.md)
 ## My Notes
