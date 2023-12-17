@@ -21,3 +21,4 @@
 - #ref/2023/12/16/145556/source [What is Secure Coding? - Check Point Software](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-secure-coding/)
 - #ref/2023/12/16/172316/source [IOA vs IOC: Understanding the Differences - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/)
 - #ref/2023/12/16/182338/source [Lock picking - Wikipedia](https://en.wikipedia.org/wiki/Lock_picking)
+- #ref/2023/12/17/103046/source [Deep Web vs Dark Web: What's the Difference? - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/deep-web-vs-dark-web/)
