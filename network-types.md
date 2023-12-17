@@ -2,6 +2,7 @@
 - [Local Area Network (LAN)](lan.md)
 - [Wide area network (WAN)](wan.md)
 - [Virtual Private Network (VPN)](vpn.md)
+- [Ad Hoc Network](ad-hoc-network.md)
 - [Intranet](intranet.md)
 - [Internet](internet.md)
 - [Multi-Homed](multi-homing.md)
