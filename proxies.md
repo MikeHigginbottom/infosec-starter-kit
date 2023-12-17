@@ -9,6 +9,6 @@
 - [Socket Secure (SOCKS)](socks.md)
 - [HTTP Proxy](http-proxy.md)
 - [Web Proxy Auto-Discovery Protocol (WPAD)](wpad.md)
-- [X-Forwarded-For Header (XFF)](xff.md)
+- [X-Forwarded-For Header (XFF)](x-forwarded-for-header.md)
 ## My Notes
 [Notes](mynotes/proxies-notes.md)

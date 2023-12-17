@@ -1,5 +1,6 @@
 In order of severity:
 1. [Event](event.md)
+2. [Alert](alert.md)
 3. [Incident](incident.md)
 4. [Breach](breach.md)
 
