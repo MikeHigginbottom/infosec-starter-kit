@@ -3,6 +3,7 @@
 - See also [Users](users.md)
 
 - [Least Privilege](least-privilege.md)
+- [Allow and Deny Lists](allow-and-deny-lists.md)
 - There are three primary forms of access control: [DAC](discretionary-access-control.md), [MAC](mandatory-access-control.md), and [RBAC](role-based-access-control.md) #ref/2023/12/09/130055
 - [Access Control Service](access-control-service.md)
 - [Access Matrix](access-matrix.md)
