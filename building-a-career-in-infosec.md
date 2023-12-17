@@ -1,5 +1,6 @@
 - [Prerequisites](prerequisites.md)
 - [Attitude And Ethics](attitude-and-ethics.md)
+- [Certifications](certifications.md)
 - [Roles](roles.md)
 - [Home Lab](home-lab.md)
 - [Projects](projects.md)
