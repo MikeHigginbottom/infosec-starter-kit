@@ -1,4 +1,4 @@
-- A malicious attempt to disrupt or block access to and use of the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. #ref/2023/12/09/124901  It is a violation of availability. #ref/2023/12/09/130055 #glossary
+- A malicious attempt to disrupt or block access to and use of the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. #ref/2023/12/09/124901  It is a violation of [availability](availability.md). #ref/2023/12/09/130055 #glossary
 
 - General approach is to bombard a system with connections to keep it so busy that it is unable to accept legitimate connections. #ref/2023/12/09/095245
 - A flooding attack sends massive amounts of network traffic to the target overloading the ability of network devices and servers to handle the raw load. #ref/2023/12/09/130055
