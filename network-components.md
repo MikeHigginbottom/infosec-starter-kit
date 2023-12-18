@@ -2,7 +2,7 @@
 
 - [Host Types](network-nodes.md)
 - [Network Types](network-types.md)
-- [Network Locations](network-locations.md)
+- [Network Locations](network-regions.md)
 - Hub|A hub is a network device that operates by repeating data that it receives on one port to all the other ports. As a result, data transmitted by one host is retransmitted to all other hosts on the hub. #ref/2023/12/09/101428
 - Network|A collection of IT systems that interact with each other via electronic connections. #ref/2023/12/09/095245
 - Router|A router is a piece of network hardware that allows communication between your local home network and the Internet. #ref/2023/12/09/124901

@@ -1,4 +1,4 @@
-- See also [Network Locations](network-locations.md)
+- See also [Network Locations](network-regions.md)
 
 - [Host](host.md)
 - [Endpoint](endpoint.md)
@@ -15,6 +15,8 @@
 - [Honey Client](honey-client.md)
 - [Honey Monkey](honey-monkey.md)
 - [Honey Pot](honey-pot.md)
+- [Blackhole](blackhole.md)
+- [Sinkhole](sinkhole.md)
 - [Hypervisor](hypervisor.md)
 - [Virtual Machine](virtual-machine.md)
 - [VM](vm.md)
