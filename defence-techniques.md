@@ -1,28 +1,9 @@
 - General techniques for defending systems. For specific techniques see the relevant [technology area](technology-areas.md) #glossary 
 
 - [Advisory](advisory.md)
-- Endpoint protection|Technologies, software and strategies for securing devices such as laptops, mobile phones, tablets, workstations and servers that connect to a network. The devices are known as endpoints. #ref/2023/12/09/120659
-- Anti-Malware Software|Synonymous with Anti-Virus Software. #ref/2023/12/09/095245
-- anti-virus (anti-malware)|A security program designed to monitor a system for malicious software. Once malware is detected, the AV program will attempt to remove the offending item from the system or may simply quarantine the file for further analysis by an administrator. It is important to keep AV software detection databases current in order to have the best chance of detecting known forms of malware. #ref/2023/12/09/130055
-- Anti-Virus Software|Anti-virus software is a computer program used to prevent, detect, and remove malware. #ref/2023/12/09/124901
-- Anti-virus software|Designed to identify and remove computer viruses, other malware and spyware on a device or IT system. To be effective it should be kept up-to-date with the latest anti-virus signatures and definitions. #ref/2023/12/09/120659
-- Anti-Virus Software|Software which scans the files going in and out of your computer systems and tries to spot hidden software that is designed to cause damage or theft of data. #ref/2023/12/09/095245
-- antivirus software|A software program that monitors a computer system or network communications for known examples of malicious code and then attempts to remove or quarantine the offending items. (Also known as Malware Scanner.) Most anti-virus (AV) products use a pattern recognition or signature matching system to detect the presence of known malicious code. Some AV products have adopted technologies to potentially detect new and unknown malware. These technologies include anomaly detection (i.e. watch for programs which violate specific rules), behavioral detection (i.e. watch for programs that have behaviors that are different from the normal baseline of behavior of the system), and heuristic detection (i.e. watch for programs that exhibit actions which are known to be those of confirmed malware; it is a type of technological profiling). #ref/2023/12/09/130055
-- Ingress Filtering|Ingress Filtering is filtering inbound traffic. #ref/2023/12/09/101428
-- Filter|A filter is used to specify which packets will or will not be used. It can be used in sniffers to determine which packets get displayed, or by firewalls to determine which packets get blocked. #ref/2023/12/09/101428
-- Patch management - patches|Patch management covers acquiring, testing and installing multiple patches (manufacturer released code changes) to a computer system or application. Firmware and software vendors release patches to fix defects, change functionality and to address known security vulnerabilities. #ref/2023/12/09/120659
-- Patch Management|A regime of regularly downloading and applying the Patches required for your systems and monitoring Patch currency. #ref/2023/12/09/095245
-- patch management|The management activity related to researching, testing, approving and installing updates and patches to computer systems, which includes firmware, operating systems and applications. A patch is an update, correction, improvement or expansion of an existing software product through the application of new code issued by the vendor. Patch management is an essential part of security management in order to prevent downtime, minimize vulnerabilities and prevent new untested updates from interfering with productivity. #ref/2023/12/09/130055
-- Patches|See Patch Management. #ref/2023/12/09/120659
-- Patching|Patching is the process of updating software to a different version. #ref/2023/12/09/101428
-- Patch|A patch is a piece of software code that can be applied after the software program has been installed to correct an issue with that program. #ref/2023/12/09/124901
-- Patch|A patch is a small update released by a software manufacturer to fix bugs in existing programs. #ref/2023/12/09/101428
-- Patch|An update for an operating system or software application, to correct a functional problem or security vulnerability. #ref/2023/12/09/095245
-- patch|An update or change or an operating system or application. A patch is often used to repair flaws or bugs in deployed code as well as introduce new features and capabilities. It is good security practice to test all updates and patches before implementation and attempt to stay current on patches in order to have the latest version of code that has the fewest known flaws and vulnerabilities. #ref/2023/12/09/130055
-- Security Information and Event Management (SIEM)|A system that collates log and event data that it receives from a wide variety of systems and then reports perceived issues to the security operations team. #ref/2023/12/09/095245
-- Security information and event management (SIEM)|Process in which network information is aggregated, sorted and correlated to detect suspicious activities. #ref/2023/12/09/125539
-- Security Information and Event Management - SIEM|In the field of information security, SIEM is used to provide real-time analysis of security events and alerts generated by network hardware, operating system and applications. SIEM solutions are generally used to consolidate logs from multiple ICT assets and syslog servers into one system. Anomalies and security events/alerts can be detected across an ICT estate in real time, which can then be investigated and responded to by security analysts. #ref/2023/12/09/120659
-- SIEM (Security Information and Event Management)|A formal process by which the security of an organization is monitored and evaluated on a constant basis. SIEM helps to automatically identify systems that are out of compliance with the security policy as well as to notify the IRT (Incident Response Team) of any security violating events. #ref/2023/12/09/130055
-- SIEM|See Security Information and Event Management. #ref/2023/12/09/120659
+- [Endpoint Security](endpoint-security.md)
+- [Filtering](filtering.md)
+- [Patching](patching.md)
+- [Security Information and Event Management (SIEM)](siem.md)
 ## My Notes
 [Notes](mynotes/defence-techniques-notes.md)

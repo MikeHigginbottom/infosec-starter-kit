@@ -1,6 +1,7 @@
 - See also [Network Locations](network-locations.md)
 
 - [Host](host.md)
+- [Endpoint](endpoint.md)
 - [Client](client.md)
 - [Server](server.md)
 - Data server|A computer or program that provides other computers with access to shared files over a network. #ref/2023/12/09/125539
