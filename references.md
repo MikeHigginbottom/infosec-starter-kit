@@ -22,3 +22,4 @@
 - #ref/2023/12/16/172316/source [IOA vs IOC: Understanding the Differences - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/)
 - #ref/2023/12/16/182338/source [Lock picking - Wikipedia](https://en.wikipedia.org/wiki/Lock_picking)
 - #ref/2023/12/17/103046/source [Deep Web vs Dark Web: What's the Difference? - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/deep-web-vs-dark-web/)
+- #ref/2023/12/18/142843/source [What Are Digital Certificates? | Fortinet](https://www.fortinet.com/resources/cyberglossary/digital-certificates)

@@ -1,50 +1,23 @@
 - Modern cryptography is the central mechanism for achieving the following four security objectives: #ref/2023/12/09/120659 #glossary
 	- [confidentiality](confidentiality.md)
 	- [integrity](integrity.md)
-	- non-repudiation
-	- authentication
+	- [non-repudiation](non-repudiation.md)
+	- [authentication](authentication.md)
 
 - [Cryptographic Strength](cryptographic-strength.md)
+- [Cryptographic Keys](cryptographic-keys.md)
+- [Salt](salt.md)
+- [Cryptographic Algorithms](cryptographic-algorithm.md)
 - [Symmetric Cryptography](symmetric-cryptography.md)
 - [Asymmetric Cryptography](asymmetric-cryptography.md)
 - [Public Key Cryptography](public-key-cryptography.md)
 - [Encryption](encryption.md)
 - [Decryption](decryption.md)
 - [Hashing](hashing.md)
+- [Certificates](certificates.md)
+- [Public Key Infrastructure (PKI)](public-key-infrastructure.md)
 - [Blockchain](blockchain.md)
 - [Cryptanalysis](cryptanalysis.md)
 - [Cryptocurrency](crypto-currency.md)
-- Diffie-Hellman|A key agreement algorithm published in 1976 by Whitfield Diffie and Martin Hellman. Diffie-Hellman does key establishment, not encryption. However, the key that it produces may be used for encryption, for further key management operations, or for any other cryptography. #ref/2023/12/09/101428
-- encode|The act which transforms plaintext or cleartext (i.e. the original form of normal standard data) into ciphertext (i.e. the unintelligible and seeming random form of data that is produced by the cryptographic function of encryption). Ciphertext is produced by a symmetric encryption algorithm when a data set is transformed by the encryption process using a selected key (i.e. to encrypt or encode). Ciphertext can converted back into its original form (i.e. plaintext) by performing the decryption process using the same symmetric encryption algorithm and the same key used during the encryption process (i.e. decrypt or decode). #ref/2023/12/09/130055
-- Encryption Algorithm|The mechanism used to Encrypt data, which is usually based on a mathematical formula. #ref/2023/12/09/095245
-- encryption key|The secret number value used by a symmetric encryption algorithm to control the encryption and decryption process. A key is a number defined by its length in binary digits. Generally, the longer the key length, the more security (i.e. defense against confidentiality breaches) it provides. The length of the key also determines the key space, which is the range of values between the binary digits being all zeros and all ones from which the key can be selected. #ref/2023/12/09/130055
-- Encryption|A method to scramble a message, file or other data and turn it into a secret code using an algorithm (complex mathematical formula). The code can only be read using a key or other piece of information (such as a password) which can decrypt the code. #ref/2023/12/09/120659
-- Encryption|Cryptographic transformation of data (called "plaintext") into a form (called "cipher text") that conceals the data's original meaning to prevent it from being known or used. #ref/2023/12/09/101428
-- Encryption|The transformation of data to hide its information content. #ref/2023/12/09/125539
-- Encrypt|To convert Clear Text into Cipher Text using an Encryption Algorithm so that it can’t be read by someone you don't want to see it. #ref/2023/12/09/095245
-- Key|A parameter used in a cryptographic algorithm: you apply the algorithm to the Plain Text and the key, and the result is the Cipher Text. If a different key is used for the same Plain Text, the result will be a different Cipher Text. #ref/2023/12/09/095245
-- Manual Key Transport|The approach of providing a third party Key in person or by phone rather than letting systems exchange it automatically. #ref/2023/12/09/095245
-- One Time Pad (OTP)|A paper pad of encryption Keys on which each key is different from the next and where there is no discernible pattern to the various keys. The sender and receiver must have the same One-Time Pads in order that the receiver can decrypt the message. One of the most secure approaches to an Encryption Algorithm so long as nobody is able to duplicate the One Time Pad. #ref/2023/12/09/095245
-- Over-The-Air (OTA)|An approach in which key exchange is carried out over the same path that the encrypted data is traversing. #ref/2023/12/09/095245
-- PKI (Public Key Infrastructure)|A security framework (i.e. a recipe) for using cryptographic concepts in support of secure communications, storage and job tasks. A PKI solution is a combination of symmetric encryption, asymmetric encryption, hashing and digital certificate-based authentication. #ref/2023/12/09/130055
-- Plain Text|See Clear Text. #ref/2023/12/09/095245
-- Plaintext|Ordinary readable text before being encrypted into ciphertext or after being decrypted. #ref/2023/12/09/101428
-- Private Key|One of the two Cryptographic Keys in a Public Key Cryptography setup. #ref/2023/12/09/095245
-- Public Key Cryptography|A mechanism whereby each party in a data interchange advertises a Public Key for the other to use for encryption, whilst using a Private Key to decrypt whatever arrives. #ref/2023/12/09/095245
-- Public Key Encryption|The popular synonym for "asymmetric cryptography". #ref/2023/12/09/101428
-- Public Key Infrastructure (PKI)|A PKI (public key infrastructure) enables users of a basically unsecured public network such as the Internet to securely and privately exchange data and money through the use of a public and a private cryptographic key pair that is obtained and shared through a trusted authority. The public key infrastructure provides for a digital certificate that can identify an individual or an organization and directory services that can store and, when necessary, revoke the certificates. #ref/2023/12/09/101428
-- Public Key|The other of the two Cryptographic Keys in a Public Key Cryptography setup, alongside the Private Key. #ref/2023/12/09/095245
-- Public Key|The publicly-disclosed component of a pair of cryptographic keys used for asymmetric cryptography. #ref/2023/12/09/101428
-- Public-Key Forward Secrecy (PFS)|For a key agreement protocol based on asymmetric cryptography, the property that ensures that a session key derived from a set of long-term public and private keys will not be compromised if one of the private keys is compromised in the future. #ref/2023/12/09/101428
-- Rivest-Shamir-Adleman (RSA)|An algorithm for asymmetric cryptography, invented in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman. #ref/2023/12/09/101428
-- S/Key|A security mechanism that uses a cryptographic hash function to generate a sequence of 64-bit, one-time passwords for remote user login. The client generates a one-time password by applying the MD4 cryptographic hash function multiple times to the user's secret key. For each successive authentication of the user, the number of hash applications is reduced by one. #ref/2023/12/09/101428
-- Salt|Also a variable passed into a cryptographic algorithm or Pseudorandom Number Generator to improve randomness/strength. #ref/2023/12/09/095245
-- Split Key|A cryptographic key that is divided into two or more separate data items that individually convey no knowledge of the whole key that results from combining the items. #ref/2023/12/09/101428
-- Static Key|A Key that changes infrequently, if at all. #ref/2023/12/09/095245
-- Trap Door|In the context of an encryption algorithm, an algorithm that is very simply and quick to execute in one direction, and intractably hard and slow to execute in the other direction. #ref/2023/12/09/095245
-- Triple Data Encryption Algorithm - 3DEA|Triple Data Encryption Algorithm IEEE RFC1851 (3DEA, 3DES or Triple DES) is a symmetric-key encryption algorithm. It has been superseded by the AES algorithm. #ref/2023/12/09/120659
-- Triple DES (3DES)|A development of the Data Encryption Standard which is considerably more secure. #ref/2023/12/09/095245
-- Triple DES|A block cipher, based on DES, that transforms each 64-bit plaintext block by applying the Data Encryption Algorithm three successive times, using either two or three different keys, for an effective key length of 112 or 168 bits. #ref/2023/12/09/101428
-- X.509|The ISO/ITU-T standard for public key certificates. #ref/2023/12/09/095245
 ## My Notes
 [Notes](mynotes/cryptography-notes.md)
