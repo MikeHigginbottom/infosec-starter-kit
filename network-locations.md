@@ -1,6 +1,6 @@
 - Logical points in a network that serve a specific function #glossary
 
-- See also [Host Types](host-types.md)
+- See also [Host Types](network-nodes.md)
 
 - [Perimeter](perimeter.md)
 - [Boundary](boundary.md)

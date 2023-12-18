@@ -1,6 +1,6 @@
 - The types of hosts, their positioning and their groupings that make up a network #glossary
 
-- [Host Types](host-types.md)
+- [Host Types](network-nodes.md)
 - [Network Types](network-types.md)
 - [Network Locations](network-locations.md)
 - Hub|A hub is a network device that operates by repeating data that it receives on one port to all the other ports. As a result, data transmitted by one host is retransmitted to all other hosts on the hub. #ref/2023/12/09/101428
