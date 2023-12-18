@@ -1,4 +1,4 @@
-- A device that forwards data between networks #glossary 
+- Routers interconnect logical networks by forwarding information to other networks based upon IP addresses. #ref/2023/12/09/101428 #glossary
 
 - [Filtering Router](filtering-router.md)
 ## My Notes
