@@ -16,5 +16,9 @@
 - [Hardware Security](hardware-security.md)
 - [Cryptography](cryptography.md)
 - [Malware](malware.md)
+- Steganalysis|Steganalysis is the process of detecting and defeating the use of steganography. #ref/2023/12/09/101428
+- Steganography|Methods of hiding the existence of a message or other data. This is different than cryptography, which hides the meaning of a message but does not hide the message itself. An example of a steganographic method is "invisible" ink. #ref/2023/12/09/101428
+- Steganography|The practice of concealing a file, message, image, or video within another file, message, image, or video. #ref/2023/12/09/120659
+- Steganography|The science of communicating in such a way that hides the communication - for instance by concealing sensitive data within an innocuous-looking document such as a photograph. #ref/2023/12/09/095245
 ## My Notes
 [Notes](mynotes/cyber-security-notes.md)

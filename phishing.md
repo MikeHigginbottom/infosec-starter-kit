@@ -1,8 +1,10 @@
-- Phishing is a type of fraud in which the attacker attempts to steal sensitive data such as passwords or credit card numbers, via social engineering. Phishing can be performed via: #ref/2023/12/09/120659 #glossary
-	- email
-	- phone calls
-	- instant messaging
-	- other communication channels
+# Phishing
+: A type of fraud in which the attacker attempts to steal sensitive data such as passwords or credit card numbers, via social engineering. Phishing can be performed via: #ref/2023/12/09/120659 #glossary
+
+- email
+- phone calls
+- instant messaging
+- other communication channels
 
 - Spear Phishing is targeting a single user
 - Whaling is targeting someone important
