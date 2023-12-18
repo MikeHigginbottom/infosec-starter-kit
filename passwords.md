@@ -1,6 +1,10 @@
-- Password Cracking|Password cracking is the process of attempting to guess passwords, given the password file information. #ref/2023/12/09/101428
-- Password Generator|An application that generates complex, hard-to-crack passwords for Users. #ref/2023/12/09/095245
-- Password Protected|A situation in which a system demands a Password before it admits Users. Password protection is not considered sufficient for critical systems - [Two Factor Authentication] is a better option. #ref/2023/12/09/095245
-- Password Sniffing|Passive wiretapping, usually on a local area network, to gain knowledge of passwords. #ref/2023/12/09/101428
-- Password|A secret series of characters used to authenticate a person’s identity. #ref/2023/12/09/125539
-- Password|A sequence of characters used by Users alongside their user IDs as part of the process of gaining access to a computer system. #ref/2023/12/09/095245
+- A secret series of characters used to authenticate a person’s identity. #ref/2023/12/09/125539 #glossary 
+
+- [Password Rules](password-rules.md)
+- [Poor Passwords](poor-passwords.md)
+- [Password Cracking](password-cracking.md)
+- [Password Generator](password-generator.md)
+- [Password Protected](password-protected.md)
+- [Password Sniffing](password-sniffing.md)
+## My Notes
+[Notes](mynotes/passwords-notes.md)
