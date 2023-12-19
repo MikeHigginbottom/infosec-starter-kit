@@ -3,6 +3,8 @@
 
 - See also [Incident Response](incident-response.md)
 
+- The goal of BCP is to prevent the failure of mission critical processes when they have be harmed by a breach or accident. Once core business tasks have been stabilized, BCP dictates the procedure to return the environment back to normal conditions. BCP is used when the normal security policy has failed to prevent harm from occurring, but before the harm has reached the level of fully interrupting mission critical processes, which would trigger the [Disaster Recovery Process (DRP)](disaster-recovery-plan.md) #ref/2023/12/09/130055
+
 - [Business Impact Analysis (BIA)](business-impact-analysis.md)
 ## My Notes
 [Notes](mynotes/business-continuity-plan-notes.md)
