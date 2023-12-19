@@ -18,7 +18,7 @@
 		- Document action plan
 	- Act:
 		- Description: Remediate, recover, document lessons
-		- Tools: Forensic analysis, backups, data recovery, security awareness training, patch management
+		- Tools: Forensic analysis, [backups](backup.md), [data recovery](recovery.md), security awareness training, patch management
 		- Update training and communication
 
 - NIST Incident Response Life Cycle: #ref/2023/12/15/231610
@@ -26,6 +26,6 @@
 	- Protect: Implement safeguards - access control, training, data security, maintenance, risk management
 	- Detect: Processes to identify incidents - anomalies and events, continuous monitoring, detection process
 	- Respond: Response strategies - response planning, communications, analysis, mitigation, improvements
-	- Recover: Plan for restoration of business - recovery planning, communications, improvements
+	- Recover: Plan for restoration of business - [recovery](recovery.md) planning, communications, improvements
 ## My Notes
 [Notes](mynotes/incident-response-process-notes.md)

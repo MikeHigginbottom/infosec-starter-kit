@@ -3,6 +3,6 @@
 
 - Different variants of ransomware can encrypt files, full disks or system configurations to prevent access and hold the user to ransom until a decryption key is paid for.  #ref/2023/12/09/120659
 - Anti-malware suppliers work to publish decryption tools.  #ref/2023/12/09/120659 
-- It is not recommended to pay any ransom demands and organisations should implement backup and recovery strategies to enable recovery from ransomware.    #ref/2023/12/09/120659
+- It is not recommended to pay any ransom demands and organisations should implement [backup](backup.md) and [recovery](recovery.md) strategies to enable recovery from ransomware.    #ref/2023/12/09/120659
 ## My Notes
 [Notes](mynotes/ransomware-notes.md)
