@@ -1,3 +1,4 @@
+# Ad Hoc Network
 - A network in which the owners of the devices in the network configure their own devices to communicate with each other.  #ref/2023/12/09/095245 #glossary
 
 - Frequently based on [Wireless Local Area Network](wlan.md) technology #ref/2023/12/09/095245

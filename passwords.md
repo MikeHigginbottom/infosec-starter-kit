@@ -1,3 +1,4 @@
+# Passwords
 - A secret series of characters used to authenticate a person’s identity. #ref/2023/12/09/125539 #glossary 
 
 - [Password Rules](password-rules.md)

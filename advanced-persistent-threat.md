@@ -1,3 +1,4 @@
+# Advanced Persistent Threat
 - A stealthy and sophisticated security breach that enables an attacker to gain access or control over a system for an extended period of time, often with the intent to steal data or assets #ref/2023/12/09/130055 #ref/2023/12/09/120659  #glossary
 
 - Often an APT takes advantage of numerous unknown vulnerabilities or zero day attacks, which allow the attacker to maintain access to the target even as some attack vectors are blocked. #ref/2023/12/09/130055

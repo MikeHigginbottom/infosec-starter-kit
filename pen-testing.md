@@ -1,3 +1,4 @@
+# Pen Testing
 - [Penetration](penetration.md)
 - Variously known as Pen Testing, Penetration Testing or Ethical Hacking
 - A security evaluation used to actively test the external perimeter of a computer system, network or Web application in order to find vulnerabilities that an attacker could exploit so these weak spots can be resolved before they can be exploited. #ref/2023/12/09/124901 #ref/2023/12/09/101428 #ref/2023/12/09/120659 #glossary

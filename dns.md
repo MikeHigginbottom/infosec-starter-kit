@@ -1,3 +1,4 @@
+# DNS
 - See also [DNS Protocol](dns-protocol.md)
 - The domain name system (DNS) is the way that Internet domain names are located and translated into Internet Protocol addresses. A domain name is a meaningful and easy-to-remember "handle" for an Internet address. #ref/2023/12/09/101428 #glossary
 

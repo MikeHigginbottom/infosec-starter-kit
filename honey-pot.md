@@ -1,3 +1,4 @@
+# Honey Pot
 - A decoy system or network that serves to attract potential attackers. #ref/2023/12/09/124901 #glossary
 
 - A honey pot can be used to log access attempts to those ports including the attacker's keystrokes. This could give you advanced warning of a more concerted attack. #ref/2023/12/09/101428

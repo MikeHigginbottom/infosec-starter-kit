@@ -1,3 +1,4 @@
+# Whois
 - An IP for finding information about resources on networks. #ref/2023/12/09/101428 #glossary
 
 Used to check ownership of IPs

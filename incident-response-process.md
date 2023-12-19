@@ -1,3 +1,4 @@
+# Incident Response Process
 - The way in which an [incident response plan](incident-response-plan.md) is put to use during an incident #glossary
 
 - Two processes are in common use: OODA Loop and NIST Incident Response Life Cycle #ref/2023/12/15/231610

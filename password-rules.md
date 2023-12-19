@@ -1,3 +1,4 @@
+# Password Rules
 - A set of rules that passwords must meet in order to be deemed acceptable #glossary 
 
 - Changed from any default value

@@ -1,3 +1,4 @@
+# Users
 - A person, organization entity, or automated process that accesses a system, whether authorized to do so or not. #ref/2023/12/09/101428 #glossary 
 
 - [User Account](user-account.md)

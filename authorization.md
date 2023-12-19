@@ -1,3 +1,4 @@
+# Authorization
 - Authorization is the approval, permission, or empowerment for someone or something to do something. #ref/2023/12/09/101428 #glossary
 
 - The dominant forms of authorization are: #ref/2023/12/09/130055

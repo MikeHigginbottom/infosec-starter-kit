@@ -1,3 +1,4 @@
+# Endpoint Security
 - Technologies, software and strategies for securing [endpoints](endpoint.md) #ref/2023/12/09/120659 #glossary 
 
 - [Endpoint](endpoint.md)

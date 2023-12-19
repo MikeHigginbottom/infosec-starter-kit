@@ -1,3 +1,4 @@
+# Digital Forensics
 - The process of gathering digital information and retrospectively analysing and investigating cyber attacks in a way that preserves evidence. #ref/2023/12/09/095245 #glossary
 
 - The means of gathering digital information to be used as evidence in a legal procedure. #ref/2023/12/09/130055

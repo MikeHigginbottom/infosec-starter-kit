@@ -1,3 +1,4 @@
+# Confidentiality Integrity Availability
 - The foundational triad of information security #glossary 
 
 - [Confidentiality](confidentiality.md)

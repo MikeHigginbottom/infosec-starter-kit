@@ -1,3 +1,4 @@
+# Anti Virus
 - Designed to identify and remove computer viruses, other malware and spyware on a device or IT system. #ref/2023/12/09/120659  #glossary 
 
 - Once malware is detected, the AV program will attempt to remove the offending item from the system or may simply quarantine the file for further analysis by an administrator. #ref/2023/12/09/130055

@@ -1,3 +1,4 @@
+# Network Resilience
 - The ability of a network to remain functional #glossary
 
 - [Resilience](resilience.md)

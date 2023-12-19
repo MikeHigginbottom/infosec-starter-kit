@@ -1,3 +1,4 @@
+# Vulnerabilities
 - A flaw or weakness that can be used to attack a system or organization. #ref/2023/12/09/125539 #glossary
 
 - It may be: #ref/2023/12/09/130055 

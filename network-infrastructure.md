@@ -1,6 +1,7 @@
+# Network Infrastructure
 - The physical devices that constitute a network #glossary
 
-- [Firewalls](firewalls.md)
+- [Firewall](firewall.md)
 - [IDS/IPS](ids-and-ips.md)
 - [Proxies](proxies.md)
 ## My Notes

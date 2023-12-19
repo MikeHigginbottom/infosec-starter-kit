@@ -1,3 +1,4 @@
+# Blue Team
 - A security testing team that focuses on analysing systems and designing new or improved security mechanisms to defend the systems from attack. See also [Red Team](red-team.md). #ref/2023/12/09/095245 #glossary
 
 - Includes tasks such as:  #ref/2023/12/09/101428

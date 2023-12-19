@@ -1,3 +1,4 @@
+# Protocol Message Structures
 - The components of messages #glossary
 
 - [Packet](packet.md)

@@ -1,4 +1,5 @@
-- OPSEC is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called aggregation) #glossary
+# OpSec
+- OpSec (Operational Security) is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called aggregation) #glossary
 
 - Don't leave fingerprints
 - If you have to leave fingerprints don't let them be associable with other fingerprints you've left

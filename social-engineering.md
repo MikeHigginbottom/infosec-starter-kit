@@ -1,3 +1,4 @@
+# Social Engineering
 - An attack focusing on people rather than technology. This type of attack is psychological and aims to either gain access to information or to a logical or physical environment. #ref/2023/12/09/130055 #glossary 
 
 - Often tricks people into breaking normal security procedures by masquerading as a reputable entity or person in email, IM or other communication channels. #ref/2023/12/09/120659

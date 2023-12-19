@@ -1,3 +1,4 @@
+# Network Configuration
 - The types of hosts, their positioning and their groupings that make up a network, and mechanisms used to define and delimit a network and the forms of communication allowed on it #glossary
 
 - [Network Nodes](network-nodes.md)

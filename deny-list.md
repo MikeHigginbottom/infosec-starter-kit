@@ -1,3 +1,4 @@
+# Deny List
 - A list of specifically un-trusted actions, resources or destinations that a user, system or application cannot access #ref/2023/12/09/095245 #glossary
 
 - Known in some places as a [block list](block-list.md) or a [blacklist](black-list.md) although this latter term is falling out of favour.

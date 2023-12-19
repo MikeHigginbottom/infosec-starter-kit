@@ -1,3 +1,4 @@
+# Attitude And Ethics
 - [Attitude](attitude.md)
 - [Ethics](ethics.md)
 ## My Notes

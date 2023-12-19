@@ -1,3 +1,4 @@
+# Allow List
 - A list of specifically trusted actions, resources or destinations that a user, system or application can access #ref/2023/12/09/120659 #ref/2023/12/09/095245 #glossary
 
 - Known in some places as a [whitelist](white-list.md) although this term is falling out of favour.

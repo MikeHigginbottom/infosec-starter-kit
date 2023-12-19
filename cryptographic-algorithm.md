@@ -1,3 +1,4 @@
+# Cryptographic Algorithm
 - The mechanism used to Encrypt data, which is usually based on a mathematical formula. #ref/2023/12/09/095245  #glossary
 
 - [Trap Door Function](trap-door-function.md)

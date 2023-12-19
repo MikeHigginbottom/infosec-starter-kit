@@ -1,3 +1,4 @@
+# Proxies
 - A system that makes requests to a [server](server.md) on behalf of the [client](client.md) #ref/2023/12/09/095245 #glossary
 
 - Useful because there is no direct end-to-end connection between the [client](client.md) and the [server](server.md), thus reducing the risk of something nefarious at one the server from directly infecting the other. #ref/2023/12/09/095245 

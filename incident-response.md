@@ -1,3 +1,4 @@
+# Incident Response
 - An organisation’s structure to identify security incidents, contain them, minimise business cost and to fix vulnerabilities to prevent future attacks. This involves people, processes and technology.  #ref/2023/12/15/231610 #ref/2023/12/09/120659 #glossary
 
 - See also [[Incident]] and [Event Severity Scale](event-severity-scale.md)

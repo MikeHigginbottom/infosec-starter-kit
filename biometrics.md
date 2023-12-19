@@ -1,3 +1,4 @@
+# Biometrics
 - A method of [authentication](authentication.md) which relies on, ideally uniquely identifying, biological characteristics of the user being authenticated #glossary 
 
 Examples include: #ref/2023/12/09/130055
