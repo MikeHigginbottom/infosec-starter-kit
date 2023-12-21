@@ -4,6 +4,7 @@
 - [Advisory](advisory.md)
 - [Baselining](baselining.md)
 - [Attack Signature](attack-signature.md)
+- [Tabletop Exercise](tabletop-exercise.md)
 - [Endpoint Security](endpoint-security.md)
 - [Filtering](filtering.md)
 - [Patching](patching.md)
