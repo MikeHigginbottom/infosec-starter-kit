@@ -7,6 +7,7 @@
 - [Hypertext Transfer Protocol (HTTP)](hypertext-transfer-protocol.md)
 - [Hypertext Transfer Protocol Secure (HTTPS)](hypertext-transfer-protocol-secure.md)
 - [Dynamic Routing Protocol](dynamic-routing-protocol.md)
+- [Static Routing](static-routing.md)
 - [File Transfer Protocol (FTP)](file-transfer-protocol.md)
 - [File Transfer Protocol Secure (FTPS)](file-transfer-protocol-secure.md)
 - [Internet Control Message Protocol (ICMP)](internet-control-message-protocol.md)
