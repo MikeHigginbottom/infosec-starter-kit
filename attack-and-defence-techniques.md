@@ -4,6 +4,6 @@
 - [Confidentiality Integrity And Availability](confidentiality-integrity-availability.md)
 - [Attack Techniques](attack-techniques.md)
 - [Defence Techniques](defence-techniques.md)
-- [Cyber Teams](cyber-teams.md)
+- [Cyber Exercise Teams](cyber-exercise-teams.md)
 ## My Notes
 [Notes](mynotes/attack-and-defence-techniques-notes.md)
