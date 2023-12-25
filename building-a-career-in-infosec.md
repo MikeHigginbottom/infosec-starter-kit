@@ -1,6 +1,7 @@
 # Building A Career In Infosec
 - [Prerequisites](prerequisites.md)
 - [Attitude And Ethics](attitude-and-ethics.md)
+- [Bootcamp](bootcamp.md)
 - [Certifications](certifications.md)
 - [Roles](roles.md)
 - [Home Lab](home-lab.md)
