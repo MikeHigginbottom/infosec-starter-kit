@@ -4,16 +4,25 @@
 - [Asymmetric Warfare](asymmetric-warfare.md)
 - [Advanced Persistent Threat (APT)](advanced-persistent-threat.md)
 - [Phishing](phishing.md) #ref/2023/12/15/231610 
-- [Denial Of Service](denial-of-service.md) #ref/2023/12/15/231610 
-- [SQL Injection](sql-injection.md) #ref/2023/12/15/231610 
 - [Malware](malware.md) #ref/2023/12/15/231610 
 - [Replay Attacks](replay-attacks.md)
 - [Man in the Middle](man-in-the-middle.md)
-- [Pharming](pharming.md)
 - [Spoofing](spoofing.md)
 - [Side Channel Attack](side-channel-attack.md)
 - [Stealthing](stealthing.md)
 - [Watering Hole Attack](watering-hole-attack.md)
 - [Wiretapping](wiretapping.md)
+- [Clickjacking](clickJacking.md)
+- [Code Injection](code-injection.md)
+- [Fault Line Attacks](fault-line-attacks.md)
+- [Flooding](flooding.md)
+- [Inference Attack](inference-attack.md)
+- [Input Validation Attacks](input-validation-attack.md)
+- [Kill Chain](kill-chain.md)
+- [Payment Card Skimmer](payment-card-skimmer.md)
+- [Ping Of Death](ping-of-death.md)
+- [Remote Code Execution (RCE)](remote-code-execution.md)
+- [Reconnaissance](reconnaissance.md)
+- [Zero Day](zero-day.md)
 ## My Notes
 [Notes](mynotes/attack-techniques-notes.md)

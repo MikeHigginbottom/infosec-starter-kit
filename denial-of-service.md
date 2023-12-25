@@ -6,5 +6,6 @@
 - A connection exhaustion attack repeatedly makes connection requests to a target to consume all system resources related to connections, which prevents any other connections from being established or maintained. #ref/2023/12/09/130055
 - A resource demand attack repeatedly requests a resource from a [server](server.md) in order to keep it too busy to respond to other requests. #ref/2023/12/09/130055
 - [Distributed Denial of Service (DDoS)](distributed-denial-of-service.md)
+- [Tiny Fragment Attack](tiny-fragment-attack.md)
 ## My Notes
 [Notes](mynotes/denial-of-service-notes.md)
