@@ -6,7 +6,7 @@
 - [DNS Server](dns-server.md)
 - [Fully-Qualified Domain Name (FQDN)](fqdn.md)
 - [WHOIS](whois.md)
-- [DNS Reflection](dns-reflection.md)
+- [DNS Attacks](dns-attacks.md)
 - [DNS Security Extensions (DNSSEC)](dnssec.md)
 - [gethostbyaddr](gethostbyaddr.md)
 - [gethostbyname](gethostbyname.md)
