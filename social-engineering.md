@@ -7,5 +7,8 @@
 	- gaining access into a network by tricking a user into revealing their account credentials to the false technical support staff
 	- gaining copies of data files by encouraging a worker to cut-and-paste confidential materials into an e-mail or social networking post
 	- a user executing a malicious executable at the social engineers request
+
+- [Pretexting](pretexting.md)
+- [Tailgating](tailgating.md)
 ## My Notes
 [Notes](mynotes/social-engineering-notes.md)
