@@ -6,5 +6,6 @@
 
 - [Address Space Layout Randomisation (ASLR)](address-space-layout-randomisation.md)
 - [Buffer Overflow](buffer-overflow.md)
+- [Use After Free](use-after-free.md)
 ## My Notes
 [Notes](mynotes/secure-coding-notes.md)
