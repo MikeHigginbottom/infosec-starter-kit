@@ -1,5 +1,5 @@
 # Cryptographic Algorithm
-- The mechanism used to Encrypt data, which is usually based on a mathematical formula. #ref/2023/12/09/095245  #glossary
+- Also known as a [cipher](cipher.md), the mechanism used to [encrypt](encryption.md) data, which is usually based on a mathematical formula. #ref/2023/12/09/095245  #glossary
 
 - [Trap Door Function](trap-door-function.md)
 - [Block Cipher](block-cipher.md)
