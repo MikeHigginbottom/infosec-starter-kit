@@ -17,6 +17,7 @@
 - [Games Security](games-security.md)
 - [Hardware Security](hardware-security.md)
 - [Cryptography](cryptography.md)
+- [Financial Security](financial-security.md)
 - [Malware](malware.md)
 - [Steganography](steganography.md)
 - [Devices](devices.md)
