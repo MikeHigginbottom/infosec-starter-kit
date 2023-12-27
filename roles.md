@@ -2,34 +2,24 @@
 - [Security Operations Centre (SOC)](soc.md)
 - [Network Operations Centre (NOC)](noc.md)
 - [Computer Security Incident Response Team (CSIRT)](csirt.md)
+- [Computer Emergency Response Team (CERT)](computer-emergency-response-team.md)
+- [Computer Incident Response Team (CIRT)](computer-incident-response-team.md)
+- [Dev Sec Ops](dev-sec-ops.md)
 - [Cyber Teams](cyber-exercise-teams.md)
+
+- [Chief Information Officer (CIO)](chief-information-officer.md)
+- [Chief Information Security Officer (CISO)](chielf-information-security-officer.md)
+- [Chief Technology Officer (CTO)](chief-technology-officer.md)
+- [System Security Officer (SSO)](system-security-officer.md)
+- [Information Security Architect](information-security-architect.md)
+
+- [Threat Actor](threat-actor.md)
+- [Hacker](hacker.md)
+- [Cracker](cracker.md)
 - [Black Hat](black-hat.md)
 - [Grey Hat](grey-hat.md)
 - [White Hat](white-hat.md)
-- Chief Information Officer (CIO)|The head of information services within an organisation; the individual responsible for information processing and IT systems from a business-oriented point of view. Sometimes the CIO is also responsible for the underlying infrastructure in a raw technical sense, but often the latter is the remit of the Chief Technology Officer. #ref/2023/12/09/095245
-- Chief Information Security Officer (CISO)|The head of information security and cyber security in the organisation. #ref/2023/12/09/095245
-- Chief Technology Officer (CTO)|A senior executive who oversees the technology and engineering aspects of the organisation. #ref/2023/12/09/095245
-- Computer Emergency Response Team (CERT)|A team that exists to provide response and [recovery](recovery.md) from a computer or cyber security incident. Because the abbreviation "CERT" is a registered trademark in the US, terms such as Computer Incident Response Team or Cyber Security Incident Response Team are often used instead. #ref/2023/12/09/095245
-- Computer Emergency Response Team (CERT)|An organization that studies computer and network INFOSEC in order to provide incident response services to victims of attacks, publish alerts concerning vulnerabilities and threats, and offer other information to help improve computer and network security. #ref/2023/12/09/101428
-- Computer Incident Response Team (CIRT)|See Computer Emergency Response Team. #ref/2023/12/09/095245
-- cracker|The proper term to refer to an unauthorized attacker of computers, networks and technology instead of the misused term “hacker.” However, this term is not as widely used in the media; thus, the term hacker has become more prominent in-spite of the terms misuse. (See hacker.) #ref/2023/12/09/130055
-- Cyber Security Incident Response Team (CSIRT)|See Computer Emergency Response Team. #ref/2023/12/09/095245
-- Cyber Security Profession|The Profession encompassing all roles whose holders are focused primarily on the Cyber Security of the organisations for (or with) which they work. #ref/2023/12/09/095245
-- Data Custodian|A Data Custodian is the entity currently using or manipulating the data, and therefore, temporarily taking responsibility for the data. #ref/2023/12/09/101428
-- Data Owner|A Data Owner is the entity having responsibility and authority for the data. #ref/2023/12/09/101428
-- DevSecOps|A development regime in which the Operations and Security teams work with the Development teams throughout the project in order that the security team can provide constant, ongoing feedback to help developers get the operations and security aspects of the system right. #ref/2023/12/09/095245
-- Hacker|A hacker is a computer and networking attacker who systematically attempts to penetrate a computer system or network using tools and attack methodologies to find and exploit security vulnerabilities. Security professionals called penetration testers use the same tools and techniques as hackers to identify vulnerabilities so they can be remediated before they are exploited by hackers. #ref/2023/12/09/120659
-- hacker|A person who has knowledge and skill in analyzing program code or a computer system, modifying its functions or operations and altering its abilities and capabilities. A hacker may be ethical and authorized (the original definition) or may be malicious and unauthorized (the altered but current use of the term). Hackers can range from professionals who are skilled programmers to those who have little to no knowledge of the specifics of a system or exploit but who can follow directions; in this instance, they are called script kiddies. #ref/2023/12/09/130055
-- Hacker|Someone who violates computer security for malicious reasons, kudos or personal gain. #ref/2023/12/09/125539
-- Hacker|Traditionally, someone who uses novel techniques to achieve something with a computer system. These days, someone who attempts to break into computer systems. #ref/2023/12/09/095245
-- Hacking|Hacking refers to an unauthorised intrusion into a computer or a network. #ref/2023/12/09/124901
-- hacktivism|Attackers who hack for a cause or belief rather than some form of personal gain. Hacktivism is often viewed by attackers as a form of protest or fighting for their perceived “right” or “justice.” However, it is still an illegal action in most cases when the victim’s technology or data is abused, harmed or destroyed. #ref/2023/12/09/130055
-- Hacktivism|Computer or internet hacking activities motivated by social or political reasons, for example the Anonymous group. There is disagreement over whether hacktivists are heroes or criminals, but any form of unauthorised computer access is however illegal. #ref/2023/12/09/120659
-- Information Owner|The individual who has Accountability for a given collection of data. #ref/2023/12/09/095245
-- Information Security Architect|The person within the organisation who designs the systems and technology for implementing and maintaining Information Security. #ref/2023/12/09/095245
-- Script kiddie|A derogatory term for somebody who uses published exploits (also known as commodity attacks) rather than having the skill to develop their own. #ref/2023/12/09/120659
-- System Security Officer (SSO)|A person responsible for enforcement or administration of the security policy that applies to the system. #ref/2023/12/09/101428
-- Threat actors|Individuals or groups of people which express or pose a threat to your organisation, including hackers and internal employees (such as disgruntled, unskilled or overworked employees). #ref/2023/12/09/120659
-- Threat actor|A person who performs a cyber attack or causes an accident. #ref/2023/12/09/125539
+- [Script Kiddie](script-kiddie.md)
+- [Hacktivism](hacktivism.md)
 ## My Notes
 [Notes](mynotes/roles-notes.md)
