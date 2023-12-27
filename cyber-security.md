@@ -19,5 +19,6 @@
 - [Cryptography](cryptography.md)
 - [Malware](malware.md)
 - [Steganography](steganography.md)
+- [Devices](devices.md)
 ## My Notes
 [Notes](mynotes/cyber-security-notes.md)
