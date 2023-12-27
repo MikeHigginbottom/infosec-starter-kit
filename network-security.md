@@ -9,6 +9,6 @@
 - [Network Admission Control (NAC)](network-admission-control.md)
 - [Network Resilience](network-resilience.md)
 - [ACK Piggybacking](ack-piggybacking.md)
-- CND (Computer Network Defense)|The establishment of a security perimeter and of internal security requirements with the goal of defending a network against cyberattacks, intrusions and other violations. A CND is defined by a security policy and can be stress tested using vulnerability assessment and penetration testing measures. #ref/2023/12/09/130055
+- [Computer Network Defence (CND)](computer-network-defence.md)
 ## My Notes
 [Notes](mynotes/network-security-notes.md)
