@@ -24,4 +24,4 @@
 - #ref/2023/12/17/103046/source [Deep Web vs Dark Web: What's the Difference? - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/deep-web-vs-dark-web/)
 - #ref/2023/12/18/142843/source [What Are Digital Certificates? | Fortinet](https://www.fortinet.com/resources/cyberglossary/digital-certificates)
 - #ref/2023/12/21/075445/source [Discretionary access control (DAC) - IBM Documentation](https://www.ibm.com/docs/en/zos/3.1.0?topic=controls-discretionary-access-control-dac) 
-- #ref/2023/12/21/075741/source 
+- #ref/2023/12/21/075741/source [Mandatory access control - Wikipedia](https://en.wikipedia.org/wiki/Mandatory_access_control)
