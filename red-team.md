@@ -3,7 +3,7 @@
 
 - [Penetration Testing](pen-testing.md)
 - [Command And Control](command-and-control-server.md)
-- [[vulnerabilities-exploits-and-payloads.md|Vulnerabilities Exploits And Payloads]]
+- [Vulnerabilities Exploits And Payloads](vulnerabilities-exploits-and-payloads.md)
 - [OPSEC](opsec.md)
 - [OSINT](osint.md)
 ## My Notes
