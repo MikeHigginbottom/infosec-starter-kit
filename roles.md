@@ -1,5 +1,6 @@
 # Roles
 - [Security Operations Centre (SOC)](soc.md)
+- [Network Operations Centre (NOC)](noc.md)
 - [Computer Security Incident Response Team (CSIRT)](csirt.md)
 - [Cyber Teams](cyber-exercise-teams.md)
 - [Black Hat](black-hat.md)
