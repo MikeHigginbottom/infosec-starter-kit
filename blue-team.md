@@ -19,7 +19,6 @@
 - [Data Analytics](data-analytics.md)
 - [Security Architecture And Engineering](security-architecture-and-engineering.md)
 - [Identity And Access Management](identity-and-access-management.md)
-- [Threat Modelling](threat-modelling.md)
 - [Security Assessment And Testing](security-assessment-and-testing.md)
 - [Security Operations](security-operations.md)
 - [Secure Coding](secure-coding.md)
