@@ -3,5 +3,7 @@
 
 - [OSI Model](osi-model.md)
 - [TCP/IP Model](tcpip-model.md)
+- [Encapsulation](encapsulation.md)
+- [Decapsulation](decapsulation.md)
 ## My Notes
 [Notes](mynotes/protocol-stack-notes.md)
