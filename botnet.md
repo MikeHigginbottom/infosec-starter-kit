@@ -3,5 +3,7 @@
 
 - [Botshop](botshop.md)
 - [Zombie](zombie.md)
+- [Domain Generation Algorithm (DGA)](domain-generation-algorithm.md)
+- [Fast Flux](fast-flux.md)
 ## My Notes
 [Notes](mynotes/botnet-notes.md)
