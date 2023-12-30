@@ -12,5 +12,6 @@
 - [S/Key](s-key.md)
 - [Form-Based Authentication](form-based-authentication.md)
 - [Certificates](certificates.md)
+- [Digest Authentication](digest-authentication.md)
 ## My Notes
 [Notes](mynotes/authentication-notes.md)
