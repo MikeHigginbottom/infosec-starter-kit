@@ -15,6 +15,7 @@
 - [Encryption](encryption.md)
 - [Decryption](decryption.md)
 - [Hashing](hashing.md)
+- [Digital Signatures](digital-signatures.md)
 - [Certificates](certificates.md)
 - [Public Key Infrastructure (PKI)](public-key-infrastructure.md)
 - [Blockchain](blockchain.md)
