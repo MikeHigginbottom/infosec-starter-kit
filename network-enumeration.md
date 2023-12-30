@@ -3,7 +3,7 @@
 
 - Characteristics of interest include:
 	- operating system
-	- open ports
+	- [open ports](port-scan.md)
 	- details of listening network services on any open ports found
 	- share names
 	- directory names
