@@ -12,5 +12,6 @@
 - Techniques include:
 	- Checking [banners](banner.md)
 	- Sending strange packets to a system in order to gauge how it responds to determine the operating system. #ref/2023/12/09/101428
+- [DumpSec](dump-sec.md)
 ## My Notes
 [Notes](mynotes/network-enumeration-notes.md)
