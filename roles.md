@@ -14,6 +14,8 @@
 - [Information Security Architect](information-security-architect.md)
 
 - [Threat Actor](threat-actor.md)
+- [Insider Threat](insider-threat.md)
+- [Outsider Threat](outsider-threat.md)
 - [Hacker](hacker.md)
 - [Cracker](cracker.md)
 - [Black Hat](black-hat.md)
