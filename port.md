@@ -3,5 +3,7 @@
 
 - [Source Port](source-port.md)
 - [Port Scan](port-scan.md)
+- [Ephemeral Port](ephemeral-port.md)
+- [Trusted Port](trusted-port.md)
 ## My Notes
 [Notes](mynotes/port-notes.md)

@@ -3,5 +3,6 @@
 
 - [Three Way Handshake](three-way-handshake.md)
 - [TCP Fragmentation](tcp-fragmentation.md)
+- [Exponential Backoff Algorithm](exponential-backoff-algorithm.md)
 ## My Notes
 [Notes](mynotes/transmission-control-protocol-notes.md)

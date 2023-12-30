@@ -3,5 +3,6 @@
 
 - [Network Collision](network-collision.md)
 - [Packet Sniffing](packet-sniffing.md)
+- [Traceroute](traceroute.md)
 ## My Notes
 [Notes](mynotes/network-traffic-analysis-notes.md)
