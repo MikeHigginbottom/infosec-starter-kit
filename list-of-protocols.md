@@ -10,6 +10,7 @@
 - [Static Routing](static-routing.md)
 - [File Transfer Protocol (FTP)](file-transfer-protocol.md)
 - [File Transfer Protocol Secure (FTPS)](file-transfer-protocol-secure.md)
+- [Finger](finger.md)
 - [Internet Control Message Protocol (ICMP)](internet-control-message-protocol.md)
 - [Internet Message Access Protocol (IMAP)](internet-message-access-protocol.md)
 - [Internet Protocol (IP)](internet-protocol.md)
