@@ -9,5 +9,11 @@
 - [Filtering](filtering.md)
 - [Patching](patching.md)
 - [Security Information and Event Management (SIEM)](siem.md)
+- [Defence in Depth](defence-in-depth.md)
+- [Hardening](hardening.md)
+- [Incident Response](incident-response.md)
+- [Internal Security Testing](internal-security-testing.md)
+- [Sanitization](sanitization.md)
+- [Security Control](security-control.md)
 ## My Notes
 [Notes](mynotes/defence-techniques-notes.md)

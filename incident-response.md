@@ -12,8 +12,10 @@
 - [Common types of incidents](attack-techniques.md)
 - [Incident Response Plan](incident-response-plan.md)
 - Incident Response and [Business Continuity](business-continuity.md) are usually handled by separate teams #ref/2023/12/15/231610
+- [Orchestration](orchestration.md)
 - Honest feedback after an incident is important #ref/2023/12/15/231610
 - [Incident Response Process](incident-response-process.md)
 - [Incident Response Tools](incident-response-tools.md)
+- [User Contingency Plan](user-contingency-plan.md)
 ## My Notes
 [Notes](mynotes/incident-response-notes.md)
