@@ -11,5 +11,6 @@
 - [Two Step Authentication](two-step-authentication.md)
 - [S/Key](s-key.md)
 - [Form-Based Authentication](form-based-authentication.md)
+- [Certificates](certificates.md)
 ## My Notes
 [Notes](mynotes/authentication-notes.md)
