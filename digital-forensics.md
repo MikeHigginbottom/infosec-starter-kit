@@ -4,6 +4,10 @@
 - The means of gathering digital information to be used as evidence in a legal procedure. #ref/2023/12/09/130055
 - Digital forensics focuses on gathering, preserving and analysing the fragile and volatile data from a computer system and/or network. #ref/2023/12/09/130055
 - Computer data that is relevant to a security breach and/or criminal action is often intermixed with standard benign data from business functions and personal activities. Thus, digital forensics can be challenging to properly collect relevant evidence while complying with the rules of evidence in order to ensure that such collected evidence is admissible in court. #ref/2023/12/09/130055
+- [Chain of Custody](chain-of-custody.md)
+- [Chain of Evidence](chain-of-evidence.md)
 - [Forensic Copy](forensic-copy.md)
+- [Disk Imaging](disk-imaging.md)
+- [Log Files](log-files.md)
 ## My Notes
 [Notes](mynotes/digital-forensics-notes.md)
