@@ -3,5 +3,6 @@
 
 - [Host Intrusion Prevention System (HIPS)](host-intrusion-prevention-system.md)
 - [Host-Based IDS](host-based-ids.md)
+- [Network-Based IDS](network-based-ids.md)
 ## My Notes
 [Notes](mynotes/ids-notes.md)

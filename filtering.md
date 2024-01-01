@@ -6,5 +6,6 @@
 - [IPS](ips.md)
 - [Ingress Filtering](ingress-filtering.md)
 - [Egress Filtering](egress-filtering.md)
+- [Web Filtering](web-filtering.md)
 ## My Notes
 [Notes](mynotes/filtering-notes.md)
