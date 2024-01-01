@@ -10,6 +10,7 @@
 - [Endpoint](endpoint.md)
 - [Client](client.md)
 - [Server](server.md)
+- [Gateway](gateway.md)
 
 - [Web Server](web-server.md)
 - [Proxy Server](proxy-server.md)
