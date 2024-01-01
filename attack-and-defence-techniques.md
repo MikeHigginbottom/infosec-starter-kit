@@ -12,5 +12,6 @@
 - [Proprietary Information](proprietary-information.md)
 - [Personally Identifiable Information (PII)](personally-identifiable-information.md)
 - [Sensitive Information](sensitive-information.md)
+- [Proof of concept (PoC)](proof-of-concept.md)
 ## My Notes
 [Notes](mynotes/attack-and-defence-techniques-notes.md)
