@@ -3,5 +3,6 @@
 
 - [Denial of Service](denial-of-service.md) attacks are a common way of attempting to deny the availability of services. #ref/2023/12/09/095245
 - [Service Level Agreement (SLA)](service-level-agreement.md)
+- [Split Brain](split-brain.md)
 ## My Notes
 [Notes](mynotes/availability-notes.md)
