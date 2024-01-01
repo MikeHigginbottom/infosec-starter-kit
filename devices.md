@@ -1,4 +1,6 @@
 # Devices
+- [Jump Bag](jump-bag.md)
+
 - [Network Nodes](network-nodes.md)
 - [Rogue Wireless Devices](rogue-wireless-device.md)
 - [Bring Your Own Device](bring-your-own-device.md)
@@ -9,5 +11,6 @@
 - [Portable Device](portable-device.md)
 - [Radio Frequency Identification (RFID)](rfid.md)
 - [Smartcard](smartcard.md)
+- [Removable Media](removable-media.md)
 ## My Notes
 [Notes](mynotes/devices-notes.md)

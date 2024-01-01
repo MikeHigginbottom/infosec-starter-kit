@@ -5,6 +5,7 @@
 - [Certifications](certifications.md)
 - [Roles](roles.md)
 - [Home Lab](home-lab.md)
+- [Jump Bag](jump-bag.md)
 - [Projects](projects.md)
 - [CTFs](ctfs.md)
 - [Bug Bounties](bug-bounties.md)
