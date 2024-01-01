@@ -3,6 +3,8 @@
 
 - [Trap Door Function](trap-door-function.md)
 - [Block Cipher](block-cipher.md)
+- [Stream Cipher](stream-cipher.md)
+- [Hybrid Encryption](hybrid-encryption.md)
 
 - [Data Encryption Standard (DES)](data-encryption-standard.md)
 - [Triple Data Encryption Algorithm (3DES)](triple-data-encyption-algorithm.md)
