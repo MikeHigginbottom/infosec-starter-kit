@@ -21,5 +21,6 @@
 - [Blockchain](blockchain.md)
 - [Cryptanalysis](cryptanalysis.md)
 - [Cryptocurrency](crypto-currency.md)
+- [Pretty Good Privacy (PGP)](pgp.md)
 ## My Notes
 [Notes](mynotes/cryptography-notes.md)
