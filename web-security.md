@@ -14,5 +14,6 @@
 - [Search Engine Optimisation (SEO)](search-engine-optimnisation.md)
 - [Uniform Resource Identifier (URI)](uniform-resource-identifier.md)
 - [Uniform Resource Locator (URL)](uniform-resource-locator.md)
+- [Subresource Integrity](subresource-integrity.md)
 ## My Notes
 [Notes](mynotes/web-security-notes.md)
