@@ -15,6 +15,8 @@
 - [Kernel](kernel.md)
 - [Non-Printable Character](non-printable-character.md)
 - [State Machine](state-machine.md)
+- [Validation](validation.md)
+- [Verification](verification.md)
 
 - [Practical Extraction and Reporting Language (Perl)](perl.md)
 ## My Notes
