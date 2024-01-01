@@ -9,9 +9,7 @@
 - [Static Key](static-key.md)
 
 - [One Time Pad (OTP)](one-time-pad.md)
-- [Manual Key Transport](manual-key-transport.md)
-- [Over-The-Air (OTA)](over-the-air.md)
-- [Diffie-Hellman Key Exchange](diffie-hellman-key-exchange.md)
-- [Public-Key Forward Secrecy (PFS)](public-key-forward-secrecy.md)
+- [Session Key](session-key.md)
+- [Key Exchange](key-exchange.md)
 ## My Notes
 [Notes](mynotes/cryptographic-keys-notes.md)
