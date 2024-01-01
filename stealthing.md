@@ -7,5 +7,6 @@
 - [Log Clipping](log-clipping.md)
 - [Living Off The Land](living-off-the-land.md)
 - [File-less](file-less.md)
+- [RunPE](run-pe.md)
 ## My Notes
 [Notes](mynotes/stealthing-notes.md)
