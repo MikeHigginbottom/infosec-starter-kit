@@ -7,5 +7,6 @@ In order of severity:
 
 - An [incident](incident.md) is an umbrella term for many different kinds of [events](event.md) - for example, an [intrusion](intrusion.md) is an [incident](incident.md)
 - [False Positive](false-positive.md)
+- [Pwned](pwned.md)
 ## My Notes
 [Notes](mynotes/event-severity-scale-notes.md)
