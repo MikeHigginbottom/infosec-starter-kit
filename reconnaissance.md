@@ -5,5 +5,7 @@
 - [User Enumeration](user-enumeration.md)
 - [Fingerprinting](fingerprinting.md)
 - [Scavenging](scavenging.md)
+- [Dumpster Diving](dumpster-diving.md)
+- [Distributed Scanning](distributed-scanning.md)
 ## My Notes
 [Notes](mynotes/reconnaissance-notes.md)
