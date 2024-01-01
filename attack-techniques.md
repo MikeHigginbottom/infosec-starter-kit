@@ -10,6 +10,7 @@
 - [Phishing](phishing.md) #ref/2023/12/15/231610 
 - [Malware](malware.md) #ref/2023/12/15/231610 
 - [Replay Attacks](replay-attacks.md)
+- [Password Cracking](password-cracking.md)
 - [Man in the Middle](man-in-the-middle.md)
 - [Spoofing](spoofing.md)
 - [Side Channel Attack](side-channel-attack.md)

@@ -10,10 +10,11 @@
 - Costs of an incident are operational downtime, reputation, financial #ref/2023/12/15/231610
 - Align [security posture](security-posture.md) with applicable [regulatory standards](regulatory-standards.md) #ref/2023/12/15/231610
 - [Common types of incidents](attack-techniques.md)
+- [Inadvertent Disclosure](inadvertent-disclosure.md)
 - [Incident Response Plan](incident-response-plan.md)
 - Incident Response and [Business Continuity](business-continuity.md) are usually handled by separate teams #ref/2023/12/15/231610
 - [Orchestration](orchestration.md)
-- Honest feedback after an incident is important #ref/2023/12/15/231610
+- [Remediation](remediation.md)
 - [Incident Response Process](incident-response-process.md)
 - [Incident Response Tools](incident-response-tools.md)
 - [User Contingency Plan](user-contingency-plan.md)

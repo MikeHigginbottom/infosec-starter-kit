@@ -1,5 +1,5 @@
 # OpSec
-- OpSec (Operational Security) is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called aggregation) #glossary
+- Operational Security is the concept of taking a systemic, proactive approach to the operation of the security function in your organisation. #ref/2023/12/09/095245 More specifically it is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called [aggregation](data-aggregation.md)) #glossary
 
 - Don't leave fingerprints
 - If you have to leave fingerprints don't let them be associable with other fingerprints you've left

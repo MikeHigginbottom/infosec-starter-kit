@@ -7,5 +7,6 @@
 - [Linkjacking](linkjacking.md)
 - [Screen Scraper](screen-scraper.md)
 - [Session Hijacking](session-hijacking.md)
+- [Hijack Attack](hijack-attack.md)
 ## My Notes
 [Notes](mynotes/man-in-the-middle-notes.md)
