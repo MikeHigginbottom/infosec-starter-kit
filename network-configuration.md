@@ -7,5 +7,6 @@
 - [Network Topologies](network-topologies.md)
 - [Communication Topologies](communication-topologies.md)
 - [Addressing](addressing.md)
+- [Routing](routing.md)
 ## My Notes
 [Notes](mynotes/network-configuration-notes.md)
