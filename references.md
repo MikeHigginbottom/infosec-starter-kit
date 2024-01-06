@@ -26,3 +26,4 @@
 - #ref/2023/12/21/075445/source [Discretionary access control (DAC) - IBM Documentation](https://www.ibm.com/docs/en/zos/3.1.0?topic=controls-discretionary-access-control-dac) 
 - #ref/2023/12/21/075741/source [Mandatory access control - Wikipedia](https://en.wikipedia.org/wiki/Mandatory_access_control)
 - #ref/2023/12/27/160026/source [IETF | RFCs](https://www.ietf.org/standards/rfcs/)
+- #ref/2024/01/06/210244/source [How to become a pentester | Corelan Cybersecurity ResearchCorelan Cybersecurity Research](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
