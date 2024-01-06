@@ -2,6 +2,7 @@
 - See also [Network Locations](network-regions.md)
 
 - [Network](network.md)
+- [Repeater](repeater.md)
 - [Hub](hub.md)
 - [Router](router.md)
 - [Switch](switch.md)
