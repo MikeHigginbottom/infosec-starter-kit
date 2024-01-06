@@ -12,6 +12,8 @@ Suggested use case? You're just getting your feet wet in the infosec ocean and y
 - They're organised approximately as a tree with a root node at [HMFIC](hmfic.md) getting more detailed and specialised the further away from that note you get. But some of the branches connect to each other as you move away from the trunk (for example, `firewall` is a child node of both `filtering` and `network-nodes`) so in terms of graph theory it's not acyclic - the tree has loops in it. My tree, my rules.
 - The combination of atomic notes and not-a-true-tree means the linking can represent the richness of the subject. Difficult to explain why but trust me till you work it out for yourself.
 - They're aimed at someone getting started. If you've already got your own notes you might want to cut and paste bits and pieces but your structure isn't going to mesh very well with my structure.
+- I use [Obsidian](https://obsidian.md/) to store and edit these notes but you could import them into whatever tool you fancy. Just use them as plain (Markdown) text files if you like.
+- There are a few Obsidian tags in the files (strings starting with `#`) used for references (`#ref`) and to indicate glossary definitions (`#glossary`)
 
 Are they complete? Ha! You're funny. Well, I *think* they're kind of complete in the sense that you probably won't find any major topics missing but the further down (up?) the tree you go, the more things you'll find you want to add.
 
