@@ -28,7 +28,7 @@
 - [Reverse Address Resolution Protocol (RARP)](reverse-address-resolution-protocol.md)
 - [Routing Information Protocol (RIP)](routing-information-protocol.md)
 - [Secure Electronic Transactions (SET)](secure-electronic-transactions.md)
-- [Secure Shell (SSH)](../SSH.md)
+- [Secure Shell (SSH)](ssh.md)
 - [Secure Sockets Layer (SSL)](secure-sockets-layer.md)
 - [Server Message Block (SMB)](server-message-block.md)
 - [SSH File Transfer Protocol (SFTP)](ssh-file-transfer-protocol.md)
