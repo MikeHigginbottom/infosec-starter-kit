@@ -9,5 +9,7 @@
 - Set your domain name to be the same at the target's
 - Set user agent strings to something like Chrome on Windows 10 or Googlebot if you're doing a lot of hits with something like NMAP
 - Set user agent in an environment variable and create aliases that use it for your commands so you don't forget to specify it from the command line
+
+A good overview of the subject can be found in [Kevin Mitnick's](kevin-mitnick.md) book [The Art Of Invisibility](the-art-of-invisibility.md)
 ## My Notes
 [Notes](mynotes/opsec-notes.md)
