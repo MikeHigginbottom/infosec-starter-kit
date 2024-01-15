@@ -8,5 +8,11 @@
 - [Regulations And Standards](regulations-and-standards.md)
 
 - [References](references.md)
+
+## Suggested Reading
+
+- [Humble Bundle](https://www.humblebundle.com/) sometimes have deals on bundles of info security books
+- [The Cuckoo's Egg](the-cuckoos-egg.md)
+- [Getting Started Becoming A Master Hacker](getting-started-becoming-a-master-hacker.md)
 ## My Notes
 [Notes](mynotes/infosec-notes.md)
