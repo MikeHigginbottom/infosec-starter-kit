@@ -1,3 +1,4 @@
+- #ref/2021/02/22/075045/source [How to Build a Cybersecurity Career](https://danielmiessler.com/p/build-successful-infosec-career/)
 - #ref/2023/12/06/154236/source [Difference Between Security Incident and Breach](https://www.cobalt.io/blog/difference-between-security-incident-and-breach)
 - #ref/2023/12/06/154917/source [intrusion - Glossary | CSRC](https://csrc.nist.gov/glossary/term/intrusion)
 - #ref/2023/12/06/155113/source [event - Glossary | CSRC](https://csrc.nist.gov/glossary/term/event)
