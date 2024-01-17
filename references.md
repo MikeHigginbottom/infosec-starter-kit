@@ -30,3 +30,5 @@
 - #ref/2024/01/06/160441/source [The Cuckoos Egg](the-cuckoos-egg.md)
 - #ref/2024/01/06/210244/source [How to become a pentester | Corelan Cybersecurity ResearchCorelan Cybersecurity Research](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
 - #ref/2024/01/15/105136/source [Starting an InfoSec Career – The Megamix – Chapters 1-3 – tisiphone.net](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
+- #ref/2024/01/17/114940/source [Ropper’s How to be a Hacker | howtohack](https://www.hoppersroppers.org/howtohack/)
+- #ref/2024/01/17/125834/source [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
