@@ -15,9 +15,9 @@ Suggested use case? You're just getting your feet wet in the infosec ocean and y
 - I use [Obsidian](https://obsidian.md/) to store and edit these notes but you could import them into whatever tool you fancy. Just use them as plain (Markdown) text files if you like.
 - There are a few Obsidian tags in the files (strings starting with `#`) used for references (`#ref`) and to indicate glossary definitions (`#glossary`)
 
-Are they complete? Ha! You're funny. Well, I *think* they're kind of complete in the sense that you probably won't find any major topics missing but the further down (up?) the tree you go, the more things you'll find you want to add.
+Are they complete? Ha! You're funny. Well, I *think* they're kind of complete in the sense that you probably won't find any major topics missing but the further down (up?) the tree you go, the more things you'll find you want to add. The big caveat *I* will add right now is that these notes are currently really just a framework of topics and definitions. There's not really *any* meat on the bones right now. I have quite a lot of personal notes that I'll be tidying up and bringing in over the coming days (weeks? months? years? - let's see how quickly I get round to it shall we?) so if you're looking for fleshed out lists of resources this is not it. Yet.
 
-How do you add stuff? Couple of suggestions.
+You could help out though... How do you add stuff? Couple of suggestions.
 
 1. Fork the repo, add/change some stuff and submit a pull request. There's a quick summary at [How To Pull Request in 3 Minutes - YouTube](https://www.youtube.com/watch?v=jRLGobWwA3Y)
 2. I've added a link at the bottom of each file to an extension note file you can put your own personal notes in. These links all point to filenames in a `notes` subfolder. None of the files actually exist because I added an entry to `.gitignore` for the whole of the `notes` subfolder. That's where I put all my personal notes and I suggest you do the same. Think of it as a private notes storage area, great for todo lists or stuff that's not really useful to the wider world.
