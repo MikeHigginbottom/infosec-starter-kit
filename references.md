@@ -32,3 +32,7 @@
 - #ref/2024/01/15/105136/source [Starting an InfoSec Career – The Megamix – Chapters 1-3 – tisiphone.net](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
 - #ref/2024/01/17/114940/source [Ropper’s How to be a Hacker | howtohack](https://www.hoppersroppers.org/howtohack/)
 - #ref/2024/01/17/125834/source [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+- #ref/2024/02/07/185353/source [Appendix B. A Portrait of J. Random Hacker](http://www.catb.org/jargon/html/appendixb.html)
+- #ref/2024/02/07/190029/source [Gender and Ethnicity](http://www.catb.org/jargon/html/demographics.html)
+- #ref/2024/02/11/163156/source [rfc-editor.org/rfc/rfc1983.txt](https://www.rfc-editor.org/rfc/rfc1983.txt)
+- #ref/2024/02/14/115437/source [Handshake (computing) - Wikipedia](https://en.wikipedia.org/wiki/Handshake_(computing))
