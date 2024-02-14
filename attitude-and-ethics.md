@@ -7,6 +7,7 @@
 - [Code of Ethics (CoE)](code-of-ethics.md)
 - [Due Care](due-care.md)
 - [Due Diligence](due-diligence.md)
+- [Acceptable Use Policy](acceptable-use-policy.md)
 - [Ethics Committee](ethics-committee.md)
 - [Self-Regulatory Body](self-regulatory-body.md)
 ## My Notes
