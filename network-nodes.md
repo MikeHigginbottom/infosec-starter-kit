@@ -6,6 +6,7 @@
 - [Hub](hub.md)
 - [Router](router.md)
 - [Switch](switch.md)
+- [Wireless Access Point (WAP)](wireless-access-point.md)
 
 - [Host](host.md)
 - [Endpoint](endpoint.md)
