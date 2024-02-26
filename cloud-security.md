@@ -1,6 +1,7 @@
 # Cloud Security
 - The techniques and processes associated with securing a [cloud computing](cloud-computing.md) environment. #glossary
 
+- [API](api.md)
 - [Infrastructure-as-a-service (IaaS)](iaas.md)
 - [Platform-as-a-service (PaaS)](paas.md)
 - [Software-as-a-service (SaaS)](saas.md)
