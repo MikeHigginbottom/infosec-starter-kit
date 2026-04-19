@@ -1,38 +1,270 @@
-- #ref/2021/02/22/075045/source [How to Build a Cybersecurity Career](https://danielmiessler.com/p/build-successful-infosec-career/)
-- #ref/2023/12/06/154236/source [Difference Between Security Incident and Breach](https://www.cobalt.io/blog/difference-between-security-incident-and-breach)
-- #ref/2023/12/06/154917/source [intrusion - Glossary | CSRC](https://csrc.nist.gov/glossary/term/intrusion)
-- #ref/2023/12/06/155113/source [event - Glossary | CSRC](https://csrc.nist.gov/glossary/term/event)
-- #ref/2023/12/06/160001/source [What is Network Security? Check Point Software](https://www.checkpoint.com/cyber-hub/network-security/what-is-network-security/)
-- #ref/2023/12/08/133038/source [Network mapping - Wikipedia](https://en.wikipedia.org/wiki/Network_mapping)
-- #ref/2023/12/08/133127/source [Network enumeration - Wikipedia](https://en.wikipedia.org/wiki/Network_enumeration)
-- #ref/2023/12/08/135806/source [What is Enumeration in Ethical Hacking and Cyber security?](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/enumeration-ethical-hacking/)
-- #ref/2023/12/08/144737/source [What is Network Traffic Analysis (NTA)? | Rapid7](https://www.rapid7.com/fundamentals/network-traffic-analysis/)
-- #ref/2023/12/09/095245/source [Glossary of cyber security terminology | UK Cyber Security Council](https://www.ukcybersecuritycouncil.org.uk/glossary/)
-- #ref/2023/12/09/101428/source [Glossary of Security Terms | SANS Institute](https://www.sans.org/security-resources/glossary-of-terms/)
-- #ref/2023/12/09/120659/source [Cyber security glossary - NHS Digital](https://digital.nhs.uk/cyber-and-data-security/about-us/cyber-security-glossary)
-- #ref/2023/12/09/124901/source [Cyber Security Terminology | A-Z Dummies Guide - MetaCompliance](https://www.metacompliance.com/cyber-security-terminology)
-- #ref/2023/12/09/125539/source [Glossary of IT security terms - Protecting networks, computers and data | BSI](https://www.bsigroup.com/en-GB/Cyber-Security/Glossary-of-cyber-security-terms/)
-- #ref/2023/12/09/130055/source [Cybersecurity Glossary of Terms | Global Knowledge](https://www.globalknowledge.com/ca-en/topics/cybersecurity/glossary-of-terms/)
-- #ref/2023/12/15/231610/source [What is Incident Response | Become a Incident Handler | EC-Council](https://www.eccouncil.org/cybersecurity/what-is-incident-response/)
-- #ref/2023/12/16/081505/source [Incident Management vs. Incident Response - What's the Difference? | Rootly](https://rootly.com/blog/incident-management-vs-incident-response-what-s-the-difference)
-- #ref/2023/12/16/142222/source [The Role of Cybersecurity in Data Analytics](https://www.ironhack.com/gb/blog/the-role-of-cybersecurity-in-data-analytics)
-- #ref/2023/12/16/142547/source [CISSP Domain 3: Security Architecture Guide - DestCert](https://destcert.com/resources/domain-3-security-architecture-and-engineering/)
-- #ref/2023/12/16/143134/source [security assessment - Glossary | CSRC](https://csrc.nist.gov/glossary/term/security_assessment)
-- #ref/2023/12/16/143717/source [What is SecOps? - Security Operations Definition](https://www.cyberark.com/what-is/security-operations/)
-- #ref/2023/12/16/145556/source [What is Secure Coding? - Check Point Software](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-secure-coding/)
-- #ref/2023/12/16/172316/source [IOA vs IOC: Understanding the Differences - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/ioa-vs-ioc/)
-- #ref/2023/12/16/182338/source [Lock picking - Wikipedia](https://en.wikipedia.org/wiki/Lock_picking)
-- #ref/2023/12/17/103046/source [Deep Web vs Dark Web: What's the Difference? - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/deep-web-vs-dark-web/)
-- #ref/2023/12/18/142843/source [What Are Digital Certificates? | Fortinet](https://www.fortinet.com/resources/cyberglossary/digital-certificates)
-- #ref/2023/12/21/075445/source [Discretionary access control (DAC) - IBM Documentation](https://www.ibm.com/docs/en/zos/3.1.0?topic=controls-discretionary-access-control-dac) 
-- #ref/2023/12/21/075741/source [Mandatory access control - Wikipedia](https://en.wikipedia.org/wiki/Mandatory_access_control)
-- #ref/2023/12/27/160026/source [IETF | RFCs](https://www.ietf.org/standards/rfcs/)
-- #ref/2024/01/06/160441/source [The Cuckoos Egg](the-cuckoos-egg.md)
-- #ref/2024/01/06/210244/source [How to become a pentester | Corelan Cybersecurity ResearchCorelan Cybersecurity Research](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
-- #ref/2024/01/15/105136/source [Starting an InfoSec Career – The Megamix – Chapters 1-3 – tisiphone.net](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
-- #ref/2024/01/17/114940/source [Ropper’s How to be a Hacker | howtohack](https://www.hoppersroppers.org/howtohack/)
-- #ref/2024/01/17/125834/source [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
-- #ref/2024/02/07/185353/source [Appendix B. A Portrait of J. Random Hacker](http://www.catb.org/jargon/html/appendixb.html)
-- #ref/2024/02/07/190029/source [Gender and Ethnicity](http://www.catb.org/jargon/html/demographics.html)
-- #ref/2024/02/11/163156/source [rfc-editor.org/rfc/rfc1983.txt](https://www.rfc-editor.org/rfc/rfc1983.txt)
-- #ref/2024/02/14/115437/source [Handshake (computing) - Wikipedia](https://en.wikipedia.org/wiki/Handshake_(computing))
+# References
+
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+
+- <a name="20240211T163156"></a>[RFC1983](https://www.rfc-editor.org/rfc/rfc1983.txt)
+
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
+- b
