@@ -1,9 +1,9 @@
 # Incident Response Process
 - The way in which an [incident response plan](incident-response-plan.md) is put to use during an incident #glossary
 
-- Two processes are in common use: OODA Loop and NIST Incident Response Life Cycle #ref/2023/12/15/231610
+- Two processes are in common use: OODA Loop and NIST Incident Response Life Cycle [^1]
 
-- OODA Loop in the context of Incident Response: #ref/2023/12/15/231610
+- OODA Loop in the context of Incident Response: [^1]
 	- Observe:
 		- Description: Continuous monitoring to identify abnormal network/system behaviour
 		- Tools: Log analysis, SIEM and IDS alters, network monitoring, vulnerability analysis, service/application performance monitoring
@@ -18,10 +18,10 @@
 		- Document action plan
 	- Act:
 		- Description: Remediate, recover, document lessons
-		- Tools: Forensic analysis, [backups](backup.md), [data recovery](recovery.md), security awareness training, patch management
+		- Tools: Forensic analysis, @l=Backups, [data recovery](recovery.md), security awareness training, patch management
 		- Update training and communication
 
-- NIST Incident Response Life Cycle: #ref/2023/12/15/231610
+- NIST Incident Response Life Cycle: [^1]
 	- Identify: Risks Assessment - assets, business, governance
 	- Protect: Implement safeguards - access control, training, data security, maintenance, risk management
 	- Detect: Processes to identify incidents - anomalies and events, continuous monitoring, detection process
@@ -29,3 +29,5 @@
 	- Recover: Plan for restoration of business - [recovery](recovery.md) planning, communications, improvements
 ## My Notes
 [Notes](mynotes/incident-response-process-notes.md)
+
+[^1]: [ref20231215T231610](references.md#20231215T231610)

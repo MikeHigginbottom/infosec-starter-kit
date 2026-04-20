@@ -7,5 +7,5 @@
 - [List Of Protocols](list-of-protocols.md)
 - [Communication Channels](communication-channels.md)
 - [Ethernet](ethernet.md)
-## My Noteset
+## My Notes
 [Notes](mynotes/network-protocols-notes.md)

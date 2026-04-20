@@ -1,4 +1,6 @@
 # TLS
-- See [Transport Layer Security](transport-layer-security.md) #ref/2023/12/09/120659 #glossary
+- See [Transport Layer Security](transport-layer-security.md) [^1] #glossary
 ## My Notes
 [Notes](mynotes/tls-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

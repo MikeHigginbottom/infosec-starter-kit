@@ -1,4 +1,5 @@
 # Standards
+- [xkcd: Countdown Standard](https://xkcd.com/3232/)
 - [RFCs](rfcs.md)
 - [Internet Standard](internet-standard.md)
 - [Contextualised Standard](contextualised-standard.md)

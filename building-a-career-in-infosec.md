@@ -6,7 +6,7 @@
 - [Roles](roles.md)
 - [Home Lab](home-lab.md)
 - [Jump Bag](jump-bag.md)
-- [Projects](projects.md)
+- [Projects](notes/infosec/projects.md)
 - [CTFs](ctfs.md)
 - [Bug Bounties](bug-bounties.md)
 - [Social Networking](social-networking.md)

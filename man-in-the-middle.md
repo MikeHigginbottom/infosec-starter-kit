@@ -1,7 +1,7 @@
 # Man In The Middle
-- [MitM](mitm.md) is a type of cyber attack in which the attacker secretly intercepts and relays, and possibly injects new messages between two parties who believe they are communicating directly with each other. The attack is a type of [eavesdropping](eavesdropping.md) in which the attacker intercepts and then controls the entire conversation. #ref/2023/12/09/101428 #ref/2023/12/09/120659 #glossary
+- [MitM](mitm.md) is a type of cyber attack in which the attacker secretly intercepts and relays, and possibly injects new messages between two parties who believe they are communicating directly with each other. The attack is a type of [eavesdropping](eavesdropping.md) in which the attacker intercepts and then controls the entire conversation. [^1] [^2] #glossary
 
-- Encryption tools can defend against an attack. #ref/2023/12/09/120659
+- Encryption tools can defend against an attack. [^2]
 - [Pharming](pharming.md)
 - [Key Logger](key-logger.md)
 - [Linkjacking](linkjacking.md)
@@ -10,3 +10,6 @@
 - [Hijack Attack](hijack-attack.md)
 ## My Notes
 [Notes](mynotes/man-in-the-middle-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)
+[^2]: [ref20231209T120659](references.md#20231209T120659)

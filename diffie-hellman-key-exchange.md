@@ -1,6 +1,8 @@
 # Diffie Hellman Key Exchange
-- A key agreement algorithm designed for the exchange of a secret key over a public channel. #ref/2023/12/09/101428 #glossary
+- A key agreement algorithm designed for the exchange of a secret key over a public channel. [^1] #glossary
 
-- Diffie-Hellman does key establishment, not encryption. However, the key that it produces may be used for encryption, for further key management operations, or for any other cryptography. #ref/2023/12/09/101428
+- Diffie-Hellman does key establishment, not encryption. However, the key that it produces may be used for encryption, for further key management operations, or for any other cryptography. [^1]
 ## My Notes
 [Notes](mynotes/diffie-hellman-key-exchange-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

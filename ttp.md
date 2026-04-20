@@ -1,4 +1,6 @@
 # TTP
-- See Tactics, Techniques and Procedures. #ref/2023/12/09/120659 #glossary 
+- See Tactics, Techniques and Procedures. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/ttp-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

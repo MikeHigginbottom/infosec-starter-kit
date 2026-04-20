@@ -1,5 +1,5 @@
 # Reconnaissance
-- Reconnaissance is the phase of an attack where an attackers finds new systems, maps out networks, and probes for specific, exploitable vulnerabilities. #ref/2023/12/09/101428 #glossary
+- Reconnaissance is the phase of an attack where an attackers finds new systems, maps out networks, and probes for specific, exploitable vulnerabilities. [^1] #glossary
 
 - [Network Reconnaissance](network-reconnaissance.md)
 - [User Enumeration](user-enumeration.md)
@@ -9,3 +9,5 @@
 - [Distributed Scanning](distributed-scanning.md)
 ## My Notes
 [Notes](mynotes/reconnaissance-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

@@ -1,8 +1,8 @@
 # Cyber Security
-- Cyber security is a particular type of information security that focuses on the protection of electronic data held and processed on digital systems, against unauthorised access, damage or misuse. It includes the protection of the hardware, software and associated infrastructure, the data that is held, and the services provided, and encompasses both technical and non-technical defence mechanisms. The term is often used to refer to information security generally because most data breaches involve network or system intrusion. #ref/2023/12/09/095245 #glossary 
+- Cyber security is a particular type of information security that focuses on the protection of electronic data held and processed on digital systems, against unauthorised access, damage or misuse. It includes the protection of the hardware, software and associated infrastructure, the data that is held, and the services provided, and encompasses both technical and non-technical defence mechanisms. The term is often used to refer to information security generally because most data breaches involve network or system intrusion. [^1] #glossary 
 
-- An organization's cybersecurity should be defined in a security policy, verified through evaluation techniques (such as vulnerability assessment and penetration testing) and revised, updated and improved over time as the organization evolves and as new threats are discovered. #ref/2023/12/09/130055
-- Cyber security is defined by [ITU-T Recommendation X.1205](x-1205.md). #ref/2023/12/09/095245
+- An organization's cybersecurity should be defined in a security policy, verified through evaluation techniques (such as vulnerability assessment and penetration testing) and revised, updated and improved over time as the organization evolves and as new threats are discovered. [^2]
+- Cyber security is defined by [ITU-T Recommendation X.1205](x-1205.md). [^1]
 
 - [Network Security](network-security.md)
 - [Operating System Security](operating-system-security.md)
@@ -24,3 +24,6 @@
 - [Devices](devices.md)
 ## My Notes
 [Notes](mynotes/cyber-security-notes.md)
+
+[^1]: [ref20231209T095245](references.md#20231209T095245)
+[^2]: [ref20231209T130055](references.md#20231209T130055)

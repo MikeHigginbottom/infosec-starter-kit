@@ -1,8 +1,8 @@
 # Authentication
-- Authentication is the process of confirming the correctness of the claimed identity (a user or system for example). #ref/2023/12/09/101428 #glossary
+- Authentication is the process of confirming the correctness of the claimed identity (a user or system for example). [^1] #glossary
 
-- Authentication is the first element of the [AAA](aaa.md) services concept #ref/2023/12/09/130055
-- Authentication is accomplished by providing one or more authentication factors: #ref/2023/12/09/130055
+- Authentication is the first element of the [AAA](aaa.md) services concept [^2]
+- Authentication is accomplished by providing one or more authentication factors: [^2]
 	- something you know (e.g. [basic authentication](basic-authentication.md), [challenge-response](challenge-response.md) or [Challenge-Handshake Authentication Protocol (CHAP)](challenge-handshake-authentication-protocol.md))
 	- something you have (e.g. smart card, RSA SecureID FOB, or USB drive)
 	- something you are (e.g. [biometrics](biometrics.md))
@@ -26,3 +26,6 @@
 - [Digest Authentication](digest-authentication.md)
 ## My Notes
 [Notes](mynotes/authentication-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)
+[^2]: [ref20231209T130055](references.md#20231209T130055)

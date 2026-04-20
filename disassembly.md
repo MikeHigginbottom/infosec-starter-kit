@@ -1,4 +1,6 @@
 # Disassembly
-- The process of taking a binary program and deriving the source code from it. #ref/2023/12/09/101428 #glossary 
+- The process of taking a binary program and deriving the source code from it. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/disassembly-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

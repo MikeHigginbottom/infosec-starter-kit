@@ -7,8 +7,8 @@
 - [Cyber Attack](cyber-attack.md)
 - [Exfiltration](exfiltration.md)
 - [Advanced Persistent Threat (APT)](advanced-persistent-threat.md)
-- [Phishing](phishing.md) #ref/2023/12/15/231610 
-- [Malware](malware.md) #ref/2023/12/15/231610 
+- [Phishing](phishing.md) [^1] 
+- [Malware](malware.md) [^1] 
 - [Replay Attacks](replay-attacks.md)
 - [Password Cracking](password-cracking.md)
 - [Man in the Middle](man-in-the-middle.md)
@@ -32,3 +32,5 @@
 - [Zero Day](zero-day.md)
 ## My Notes
 [Notes](mynotes/attack-techniques-notes.md)
+
+[^1]: [ref20231215T231610](references.md#20231215T231610)

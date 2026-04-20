@@ -1,4 +1,6 @@
 # Synchronization
-- Synchronization is the signal made up of a distinctive pattern of bits that network hardware looks for to signal that start of a frame. #ref/2023/12/09/101428 #glossary 
+- Synchronization is the signal made up of a distinctive pattern of bits that network hardware looks for to signal that start of a frame. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/synchronization-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

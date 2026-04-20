@@ -1,4 +1,6 @@
 # Proof Of Concept
-- A proof of concept demonstrates how a system can be protected or compromised without building a complete working model. #ref/2023/12/09/120659 #glossary 
+- A proof of concept demonstrates how a system can be protected or compromised without building a complete working model. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/proof-of-concept-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

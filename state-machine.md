@@ -1,5 +1,7 @@
 # State Machine
-- A system that moves through a series of progressive conditions. #ref/2023/12/09/101428 #glossary 
+- A system that moves through a series of progressive conditions. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/state-machine-notes.md)
 
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

@@ -1,4 +1,6 @@
 # VM
-- See [Virtual Machine](virtual-machine.md) #ref/2023/12/09/120659 #glossary 
+- See [Virtual Machine](virtual-machine.md) [^1] #glossary 
 ## My Notes
 [Notes](mynotes/vm-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

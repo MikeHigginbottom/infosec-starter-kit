@@ -1,5 +1,5 @@
 # Key Exchange
-- The process of exchanging a cryptographic key between the sender and receiver of a piece of data. #ref/2023/12/09/095245 #glossary 
+- The process of exchanging a cryptographic key between the sender and receiver of a piece of data. [^1] #glossary 
 
 - [Manual Key Transport](manual-key-transport.md)
 - [Over-The-Air (OTA)](over-the-air.md)
@@ -9,3 +9,5 @@
 ## My Notes
 [Notes](mynotes/key-exchange-notes.md)
 
+
+[^1]: [ref20231209T095245](references.md#20231209T095245)

@@ -1,8 +1,10 @@
 # Incident Response Tools
-- LogRhythm #ref/2023/12/15/231610
-- Sumo Logic #ref/2023/12/15/231610
-- InsightIDR #ref/2023/12/15/231610
-- CBResponse #ref/2023/12/15/231610
-- IBM QRadar #ref/2023/12/15/231610
+- LogRhythm [^1]
+- Sumo Logic [^1]
+- InsightIDR [^1]
+- CBResponse [^1]
+- IBM QRadar [^1]
 ## My Notes
 [Notes](mynotes/incident-response-tools-notes.md)
+
+[^1]: [ref20231215T231610](references.md#20231215T231610)

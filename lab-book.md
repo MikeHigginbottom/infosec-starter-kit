@@ -12,7 +12,7 @@ Go digital. No paper, no question. The only non-digital stuff you _might_ need t
 
 Plain text is king but some mark-up imposed on top provides valuable functionality with minimal complication. Do _not_ fuck about with colours or bold or fonts unless you *genuinely* gain a *lot* from their use. Markdown is my preferred mark-up. And Obsidian is my preferred app (YMMV).
 
-Atomic notes. Loosely linked together. Again, no question. Impose your own structure on your notes. It’s easier to lump than to split, so keep your notes small and specific and separated. Don’t let them restrict you by being smushed together.
+Atomic notes. Loosely linked together. Again, no question. Impose your own structure on your notes. It’s  [easier to lump than split](notes/LumpVsSplit.md), so keep your notes small and specific and separated. Don’t let them restrict you by being smushed together.
 
 Keep a log of the exact steps you take when spinning up a new machine. Or scanning for vulnerabilities. There is enough noise in any experiment that even doing this means you may not be able to repeat the same result twice. Don’t make it harder for yourself. Document _everything_. Well... try to.
 ## My Notes

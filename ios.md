@@ -1,4 +1,6 @@
 # IOS
-- An operating system used for mobile devices manufactured by Apple. #ref/2023/12/09/124901 #glossary 
+- An operating system used for mobile devices manufactured by Apple. [^1] #glossary 
 ## My Notes
 [Notes](mynotes/ios-notes.md)
+
+[^1]: [ref20231209T124901](references.md#20231209T124901)

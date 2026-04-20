@@ -1,5 +1,5 @@
 # Whois
-- An IP for finding information about resources on networks. #ref/2023/12/09/101428 #glossary
+- An IP for finding information about resources on networks. [^1] #glossary
 
 Used to check ownership of IPs
 
@@ -18,3 +18,5 @@ On Windows, need to use online tools such as:
 - [Whois Lookup - DomainTools](https://whois.domaintools.com/)
 ## My Notes
 [Notes](mynotes/whois-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)

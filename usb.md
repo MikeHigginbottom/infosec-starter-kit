@@ -1,5 +1,5 @@
 # USB
-- USB (Universal Serial Bus) is the most popular connection used to connect a computer to devices such as digital cameras, printers, scanners, and external hard drives. #ref/2023/12/09/124901 #glossary 
+- USB (Universal Serial Bus) is the most popular connection used to connect a computer to devices such as digital cameras, printers, scanners, and external hard drives. [^1] #glossary 
 
 Troubleshooting USB:
 - Try a shorter cable (spec limits this to 5m)
@@ -11,3 +11,5 @@ Troubleshooting USB:
 - Check USB specific BIOS  settings
 ## My Notes
 [Notes](mynotes/usb-notes.md)
+
+[^1]: [ref20231209T124901](references.md#20231209T124901)

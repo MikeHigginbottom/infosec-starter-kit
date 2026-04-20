@@ -1,4 +1,6 @@
 # Decryptor
-- A tool, also known as a decrypter, used to decrypt previously encrypted data, typically that which has been encrypted by a ransomware tool. Several well-known security and anti-malware vendors produce their own free decrypters, which can be found on the No More Ransom website. #ref/2023/12/09/120659 #glossary
+- A tool, also known as a decrypter, used to decrypt previously encrypted data, typically that which has been encrypted by a ransomware tool. Several well-known security and anti-malware vendors produce their own free decrypters, which can be found on the No More Ransom website. [^1] #glossary
 ## My Notes
 [Notes](mynotes/decryptor-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

@@ -1,4 +1,7 @@
 # Bastion Host
-- A bastion host has been hardened in anticipation of vulnerabilities that have not been discovered yet. #ref/2023/12/09/101428 A device in your network that you put in front of the Internet connection in order to fend off or absorb attacks. #ref/2023/12/09/095245 #glossary
+- A bastion host has been hardened in anticipation of vulnerabilities that have not been discovered yet. [^1] A device in your network that you put in front of the Internet connection in order to fend off or absorb attacks. [^2] #glossary
 ## My Notes
 [Notes](mynotes/bastion-host-notes.md)
+
+[^1]: [ref20231209T101428](references.md#20231209T101428)
+[^2]: [ref20231209T095245](references.md#20231209T095245)

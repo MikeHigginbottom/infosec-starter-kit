@@ -1,5 +1,5 @@
 # OpSec
-- Operational Security is the concept of taking a systemic, proactive approach to the operation of the security function in your organisation. #ref/2023/12/09/095245 More specifically it is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called [aggregation](data-aggregation.md)) #glossary
+- Operational Security is the concept of taking a systemic, proactive approach to the operation of the security function in your organisation. [^1] More specifically it is the process of protecting individual pieces of data that could be grouped together to give the bigger picture (called [aggregation](data-aggregation.md)) #glossary
 
 - Don't leave fingerprints
 - If you have to leave fingerprints don't let them be associable with other fingerprints you've left
@@ -13,3 +13,5 @@
 A good overview of the subject can be found in [Kevin Mitnick's](kevin-mitnick.md) book [The Art Of Invisibility](the-art-of-invisibility.md)
 ## My Notes
 [Notes](mynotes/opsec-notes.md)
+
+[^1]: [ref20231209T095245](references.md#20231209T095245)

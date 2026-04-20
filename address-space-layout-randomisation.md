@@ -1,4 +1,6 @@
 # Address Space Layout Randomisation
-- Address Space Layout Randomisation ([ASLR](aslr.md)) is a computer security technique involved in protection from buffer overflow attacks. In order to prevent an attacker from reliably jumping to a particular exploited function in memory, ASLR randomly arranges the address space positions of key data areas of a process. #ref/2023/12/09/120659 #glossary
+- Address Space Layout Randomisation ([ASLR](aslr.md)) is a computer security technique involved in protection from buffer overflow attacks. In order to prevent an attacker from reliably jumping to a particular exploited function in memory, ASLR randomly arranges the address space positions of key data areas of a process. [^1] #glossary
 ## My Notes
 [Notes](mynotes/address-space-layout-randomisation-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)

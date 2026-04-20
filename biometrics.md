@@ -1,7 +1,7 @@
 # Biometrics
 - A method of [authentication](authentication.md) which relies on, ideally uniquely identifying, biological characteristics of the user being authenticated #glossary 
 
-Examples include: #ref/2023/12/09/130055
+Examples include: [^1]
 - fingerprint
 - iris scan
 - retina scan
@@ -11,3 +11,5 @@ Examples include: #ref/2023/12/09/130055
 - keystroke dynamics
 ## My Notes
 [Notes](mynotes/biometrics-notes.md)
+
+[^1]: [ref20231209T130055](references.md#20231209T130055)

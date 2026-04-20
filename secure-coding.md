@@ -1,5 +1,5 @@
 # Secure Coding
-- The principle of designing code that adheres to code security best practices, safeguards and protects published code from known, unknown and unexpected vulnerabilities such as security exploits, the loss of cloud secrets, embedded credentials, shared keys, confidential business data and personally identifiable information #ref/2023/12/16/145556 #glossary
+- The principle of designing code that adheres to code security best practices, safeguards and protects published code from known, unknown and unexpected vulnerabilities such as security exploits, the loss of cloud secrets, embedded credentials, shared keys, confidential business data and personally identifiable information [^1] #glossary
 
 - [Secure Software Development Life Cycle (S-SDLC)](secure-software-development-life-cycle.md)
 - [Software Testing](software-testing.md)
@@ -21,3 +21,5 @@
 - [Practical Extraction and Reporting Language (Perl)](perl.md)
 ## My Notes
 [Notes](mynotes/secure-coding-notes.md)
+
+[^1]: [ref20231216T145556](references.md#20231216T145556)

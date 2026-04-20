@@ -1,5 +1,5 @@
 # Cryptography
-- Modern cryptography is the central mechanism for achieving the following four security objectives: #ref/2023/12/09/120659 #glossary
+- Modern cryptography is the central mechanism for achieving the following four security objectives: [^1] #glossary
 	- [confidentiality](confidentiality.md)
 	- [integrity](integrity.md)
 	- [non-repudiation](non-repudiation.md)
@@ -24,3 +24,5 @@
 - [Pretty Good Privacy (PGP)](pgp.md)
 ## My Notes
 [Notes](mynotes/cryptography-notes.md)
+
+[^1]: [ref20231209T120659](references.md#20231209T120659)
