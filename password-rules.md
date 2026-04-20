@@ -10,3 +10,4 @@
 - Preventing a similarity or match with previously set passwords
 ## My Notes
 [Notes](mynotes/password-rules-notes.md)
+

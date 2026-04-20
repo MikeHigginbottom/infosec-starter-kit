@@ -10,3 +10,4 @@
 - [General Data Protection Regulation](general-data-protection-regulation.md)
 ## My Notes
 [Notes](mynotes/standards-notes.md)
+

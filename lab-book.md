@@ -17,3 +17,4 @@ Atomic notes. Loosely linked together. Again, no question. Impose your own struc
 Keep a log of the exact steps you take when spinning up a new machine. Or scanning for vulnerabilities. There is enough noise in any experiment that even doing this means you may not be able to repeat the same result twice. Don’t make it harder for yourself. Document _everything_. Well... try to.
 ## My Notes
 [Notes](mynotes/lab-book-notes.md)
+

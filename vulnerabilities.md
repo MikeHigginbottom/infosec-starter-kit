@@ -1,7 +1,7 @@
 # Vulnerabilities
-- A flaw or weakness that can be used to attack a system or organization. [^1] #glossary
+- A flaw or weakness that can be used to attack a system or organization. [^2] #glossary
 
-- It may be: [^2] 
+- It may be: [^1] 
 	- a flaw in coding
 	- a mistake in configuration
 	- a limitation of scope or capability
@@ -18,5 +18,5 @@
 ## My Notes
 [Notes](mynotes/vulnerabilities-notes.md)
 
-[^1]: [ref20231209T125539](references.md#20231209T125539)
-[^2]: [ref20231209T130055](references.md#20231209T130055)
+[^1]: [ref20231209T130055](references.md#20231209T130055)
+[^2]: [ref20231209T125539](references.md#20231209T125539)

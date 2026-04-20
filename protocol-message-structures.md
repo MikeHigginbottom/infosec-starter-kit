@@ -9,3 +9,4 @@
 - [Segment](segment.md)
 ## My Notes
 [Notes](mynotes/protocol-message-structures-notes.md)
+

@@ -4,3 +4,4 @@
 - Avoids leaving a trail directly at the target.
 ## My Notes
 [Notes](mynotes/osint-notes.md)
+

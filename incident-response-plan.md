@@ -1,9 +1,9 @@
 # Incident Response Plan
 - A documented and tested set of steps to follow in the event of an organisation experiencing a security incident #glossary
 
-- Largely synonymous with a Business Continuity Plan. [^2] 
+- Largely synonymous with a Business Continuity Plan. [^1] 
 
-- Steps of an incident response plan: [^1]
+- Steps of an incident response plan: [^2]
 	- Preparation
 	- [Identification](incident-identification.md)
 	- Containment
@@ -37,6 +37,6 @@
 ## My Notes
 [Notes](mynotes/incident-response-plan-notes.md)
 
-[^1]: [ref20231209T101428](references.md#20231209T101428)
-[^2]: [ref20231209T095245](references.md#20231209T095245)
+[^1]: [ref20231209T095245](references.md#20231209T095245)
+[^2]: [ref20231209T101428](references.md#20231209T101428)
 [^3]: [ref20231215T231610](references.md#20231215T231610)

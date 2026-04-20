@@ -1,11 +1,11 @@
 # HTTP
-- Hypertext Transfer Protocol (HTTP) is a protocol in the Internet Protocol (IP) family used to transport hypertext documents across an internet. [^1] #glossary
+- Hypertext Transfer Protocol (HTTP) is a protocol in the Internet Protocol (IP) family used to transport hypertext documents across an internet. [^2] #glossary
 
 - Described in IETF RFC 2068, 2616 and 7230
 - A client-server application-layer protocol for distributed information systems and is the basic protocol used by the world wide web.
-- Data sent between a client and server over HTTP is not encrypted and could be intercepted and tampered with by a man-in-the-middle attacker. [^2] [Hypertext Transfer Protocol Secure  (HTTPS)](https.md) encrypts the traffic to improve security over standard [HTTP](http.md)
+- Data sent between a client and server over HTTP is not encrypted and could be intercepted and tampered with by a man-in-the-middle attacker. [^1] [Hypertext Transfer Protocol Secure  (HTTPS)](https.md) encrypts the traffic to improve security over standard [HTTP](http.md)
 ## My Notes
 [Notes](mynotes/http-notes.md)
 
-[^1]: [ref20231209T101428](references.md#20231209T101428)
-[^2]: [ref20231209T120659](references.md#20231209T120659)
+[^1]: [ref20231209T120659](references.md#20231209T120659)
+[^2]: [ref20231209T101428](references.md#20231209T101428)

@@ -1,7 +1,7 @@
 # Blue Team
-- A security testing team that focuses on analysing systems and designing new or improved security mechanisms to defend the systems from attack. See also [Red Team](red-team.md). [^2] #glossary
+- A security testing team that focuses on analysing systems and designing new or improved security mechanisms to defend the systems from attack. See also [Red Team](red-team.md). [^1] #glossary
 
-- Includes tasks such as:  [^1]
+- Includes tasks such as:  [^2]
 	- placing and configuring firewalls
 	- implementing patching programs
 	- enforcing strong authentication
@@ -28,5 +28,5 @@
 ## My Notes
 [Notes](mynotes/blue-team-notes.md)
 
-[^1]: [ref20231209T101428](references.md#20231209T101428)
-[^2]: [ref20231209T095245](references.md#20231209T095245)
+[^1]: [ref20231209T095245](references.md#20231209T095245)
+[^2]: [ref20231209T101428](references.md#20231209T101428)

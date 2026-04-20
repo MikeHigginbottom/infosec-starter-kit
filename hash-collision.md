@@ -4,3 +4,4 @@
  - [MD5](md5.md) is largely regarded as insecure because of a tendency to generate hash collisions.
 ## My Notes
 [Notes](mynotes/hash-collision-notes.md)
+

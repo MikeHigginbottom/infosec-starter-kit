@@ -4,3 +4,4 @@
 - [Character Encodings](character-encodings.md)
 ## My Notes
 [Notes](mynotes/encoding-notes.md)
+
