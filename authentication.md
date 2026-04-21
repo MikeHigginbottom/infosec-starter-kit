@@ -1,5 +1,5 @@
 # Authentication
-- Authentication is the process of confirming the correctness of the claimed identity (a user or system for example). [^1] #glossary
+- Authentication is the process of confirming the correctness of the claimed identity (a user, process or system for example). [^1] #glossary
 
 - Authentication is the first element of the [AAA](aaa.md) services concept [^2]
 - Authentication is accomplished by providing one or more authentication factors: [^2]

@@ -7,7 +7,7 @@
 - [Notable People and Organisations](notable-people-and-organisations.md)
 - [Regulations And Standards](regulations-and-standards.md)
 
-- @l=SourceList
+- [References](references.md)
 
 ## Suggested Reading
 

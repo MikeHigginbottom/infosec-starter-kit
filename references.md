@@ -38,6 +38,3 @@
 - <a name="20240211T163156"></a>[RFC1983](https://www.rfc-editor.org/rfc/rfc1983.txt)
 - <a name="20240214T115437"></a>[Handshake (computing) - Wikipedia](https://en.wikipedia.org/wiki/Handshake_(computing))
 - <a name="20260415T062510"></a>[How to Build a Cybersecurity Career](https://danielmiessler.com/blog/build-successful-infosec-career/#gs.DtVCbbw)
-
-
-sdfsdf

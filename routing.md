@@ -1,4 +1,5 @@
 # Routing
+- The process of selecting the correct interface and next hop for a packet being forwarded. See also: hop, router, Exterior Gateway Protocol, Interior Gateway Protocol. [^1] #glossary
 - [Router](router.md)
 - [Distance Vector](distance-vector.md)
 - [Hop](hop.md)
@@ -11,3 +12,4 @@
 ## My Notes
 [Notes](mynotes/routing-notes.md)
 
+[^1]: [ref20240211T163156](references.md#20240211T163156)

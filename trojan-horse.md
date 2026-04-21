@@ -1,6 +1,8 @@
 # Trojan Horse
 - A form of malware where a malicious payload is embedded inside of a benign host file. The victim is tricked into believing that the only file being retrieved is the viewable benign host. However, when the victim uses the host file, the malicious payload is automatically deposited onto their computer system. [^1] #glossary
+- A computer program which carries within itself a means to allow the creator of the program access to the system using it. See also: virus, worm. [^2] #glossary
 ## My Notes
 [Notes](mynotes/trojan-horse-notes.md)
 
 [^1]: [ref20231209T130055](references.md#20231209T130055)
+[^2]: [ref20240211T163156](references.md#20240211T163156)

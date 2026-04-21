@@ -1,5 +1,5 @@
 # Bind
-- BIND stands for Berkeley Internet Name Domain and is an implementation of DNS. [^1] #glossary
+- BIND stands for Berkeley Internet Name Daemon and is an implementation of DNS. [^1] #glossary
 
 - [DNS Server](dns-server.md)
 ## My Notes

@@ -28,7 +28,7 @@
 
 - Developing an incident response plan: [^3]
 	- Identify critical network components
-	- Create @l=Backups
+	- Create backups
 	- Identify potential points of failure
 	- Address points of failure with failover tools
 	- Workforce continuity plan - VPNs and secure gateways

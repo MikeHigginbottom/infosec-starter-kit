@@ -18,7 +18,7 @@
 		- Document action plan
 	- Act:
 		- Description: Remediate, recover, document lessons
-		- Tools: Forensic analysis, @l=Backups, [data recovery](recovery.md), security awareness training, patch management
+		- Tools: Forensic analysis, backups, [data recovery](recovery.md), security awareness training, patch management
 		- Update training and communication
 
 - NIST Incident Response Life Cycle: [^1]
