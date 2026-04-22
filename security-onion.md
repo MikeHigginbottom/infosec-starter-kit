@@ -1,5 +1,5 @@
 # Security Onion
-- A {infosec-starter-kit}siem.md tool
+- A [SIEM](siem.md) tool
 - Mentioned as a good tool at [^1]
 
 ## My Notes
