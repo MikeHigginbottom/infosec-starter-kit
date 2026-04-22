@@ -1,5 +1,6 @@
 # References
 
+- <a name="20210923T225753"></a>[How to Build a Home Lab](https://www.youtube.com/watch?v=_Ih_wjHafrM)
 - <a name="20231206T154236"></a>[Difference Between Security Incident and Breach](https://www.cobalt.io/blog/difference-between-security-incident-and-breach)
 - <a name="20231206T154917"></a>[intrusion - Glossary | CSRC](https://csrc.nist.gov/glossary/term/intrusion)
 - <a name="20231206T155113"></a>[event - Glossary | CSRC](https://csrc.nist.gov/glossary/term/event)
