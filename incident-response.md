@@ -1,7 +1,7 @@
 # Incident Response
 - An organisation’s structure to identify security incidents, contain them, minimise business cost and to fix vulnerabilities to prevent future attacks. This involves people, processes and technology.  [^3] [^1] #glossary
 
-- See also [incident](notes/infosec/incident.md) and [Event Severity Scale](event-severity-scale.md)
+- See also [incident](incident.md) and [Event Severity Scale](event-severity-scale.md)
 - See also [Business Continuity](business-continuity.md)
 
 - The meaning of the terms [incident response](incident-response.md), [incident handling](incident-handling.md) and [incident management](incident-management.md) are not universally agreed upon although there is a general sense that incident response is more technical and the other two terms are either umbrella terms or more focused on the business continuity aspects. I've gathered everything together here though. [^2]
